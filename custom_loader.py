@@ -40,7 +40,7 @@ class PagedResultHandler(object):
         if self.df is None:
             self.df = rows
         else:
-            self.df = self.df.append(rows, ignore_index=True)
+            self.df = pd.concat([self.df, rows], ignore_index=True)
 
         if self.future.has_more_pages:
             self.future.start_fetching_next_page()
@@ -562,7 +562,7 @@ class Loader(object):
         dask_cluster = LocalCluster(
             scheduler_port=0,
             silence_logs=True,
-            processes=False,
+            processes=True,
             asynchronous=False,
         )
         self.dask_client = Client(dask_cluster, asynchronous=False)
