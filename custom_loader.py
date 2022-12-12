@@ -91,7 +91,7 @@ class Connector(object):
             self.auth = PlainTextAuthProvider(username=username,
                                               password=password)
             self.cluster = Cluster(self.clusters,
-                                   auth_provider=self.auth, port=port)
+                                   auth_provider=self.auth, port=port, connect_timeout = 10)
         self.session = self.cluster.connect(self.keyspace)
 
         # Configure session to return a Pandas dataframe
