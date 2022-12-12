@@ -1,0 +1,3 @@
+[submodule "mav-scraper"]
+	path = mav-scraper
+	url = git@github.com:jazzysnake/mav-scraper.git

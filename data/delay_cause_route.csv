@@ -1,0 +1,335 @@
+,relation,most_frequent_delay_cause
+0,Abaújszántó - Hidasnémeti,Csatlakozásra várás miatti késés
+1,Abaújszántó - Szerencs,Biztosítóberendezési hiba miatti késés
+2,Ajka - Szombathely,Társvasúttól átvett késés
+3,Arad - Budapest-Keleti,Biztosítóberendezési hiba miatti késés
+4,Arad - Szolnok,Biztosítóberendezési hiba miatti késés
+5,Aszód - Balassagyarmat,Biztosítóberendezési hiba miatti késés
+6,Baia Mare - Püspökladány,Más vonat által okozott késés
+7,Baja - Dombóvár,Baleset miatti késés
+8,Baja - Kecskemét,Biztosítóberendezési hiba miatti késés
+9,Baja - Kiskunfélegyháza,Biztosítóberendezési hiba miatti késés
+10,Baja - Szekszárd,Vonat műszaki hibája miatti késés
+11,Baja - Székesfehérvár,Biztosítóberendezési hiba miatti késés
+12,Baja - Sárbogárd,Más vonat által okozott késés
+13,Bakonyszentlászló - Győr,Csatlakozásra várás miatti késés
+14,Balassagyarmat - Hatvan,Időjárási ok miatti késés
+15,Balassagyarmat - Ipolytarnóc,Csatlakozásra várás miatti késés
+16,Balassagyarmat - Vác,Csatlakozásra várás miatti késés
+17,Balatonfüred - Budapest-Kelenföld,Biztosítóberendezési hiba miatti késés
+18,Balatonfüred - Székesfehérvár,Biztosítóberendezési hiba miatti késés
+19,Balatonfüred - Tapolca,Vonat műszaki hibája miatti késés
+20,Balatonszentgyörgy - Győr,Biztosítóberendezési hiba miatti késés
+21,Balatonszentgyörgy - Nagykanizsa,Pálya állapota miatti késés
+22,Balatonszentgyörgy - Tapolca,Baleset miatti késés
+23,Balmazújváros - Tiszafüred,Időjárási ok miatti késés
+24,Barcs - Nagykanizsa,Csatlakozásra várás miatti késés
+25,Barcs - Pécs,Baleset miatti késés
+26,Barcs - Szentlőrinc,Pálya állapota miatti késés
+27,Batthyány tér - Szentendre,Műszaki ok miatti késés vonatnál
+28,Beli Manastir - Pécs,Más vonat által okozott késés
+29,Bicske - Budapest-Kelenföld,Más vonat által okozott késés
+30,Biharkeresztes - Püspökladány,Baleset miatti késés
+31,Braşov - Budapest-Keleti,Biztosítóberendezési hiba miatti késés
+32,Breclav - Budapest-Nyugati,Biztosítóberendezési hiba miatti késés
+33,Brno hl. n. - Budapest-Nyugati,Társvasúttól átvett késés
+34,Bruck/Leitha - Győr,Biztosítóberendezési hiba miatti késés
+35,Bucureşti Nord - Budapest-Keleti,Biztosítóberendezési hiba miatti késés
+36,Bucureşti Nord - Wien Hbf,Társvasúttól átvett késés
+37,Budapest-Déli - Celldömölk,Biztosítóberendezési hiba miatti késés
+38,Budapest-Déli - Dombóvár,Baleset miatti késés
+39,Budapest-Déli - Dunaújváros,Baleset miatti késés
+40,Budapest-Déli - Győr,Baleset miatti késés
+41,Budapest-Déli - Keszthely,Baleset miatti késés
+42,Budapest-Déli - Komárom,Más vonat által okozott késés
+43,Budapest-Déli - Ljubljana,Biztosítóberendezési hiba miatti késés
+44,Budapest-Déli - Martonvásár,Más vonat által okozott késés
+45,Budapest-Déli - Nagykanizsa,Biztosítóberendezési hiba miatti késés
+46,Budapest-Déli - Oroszlány,Baleset miatti késés
+47,Budapest-Déli - Pincehely,Biztosítóberendezési hiba miatti késés
+48,Budapest-Déli - Pusztaszabolcs,Baleset miatti késés
+49,Budapest-Déli - Siófok,Biztosítóberendezési hiba miatti késés
+50,Budapest-Déli - Sopron,Baleset miatti késés
+51,Budapest-Déli - Szombathely,Baleset miatti késés
+52,Budapest-Déli - Százhalombatta,Csatlakozásra várás miatti késés
+53,Budapest-Déli - Székesfehérvár,Baleset miatti késés
+54,Budapest-Déli - Sárbogárd,Vonat műszaki hibája miatti késés
+55,Budapest-Déli - Tapolca,Biztosítóberendezési hiba miatti késés
+56,Budapest-Déli - Tatabánya,Biztosítóberendezési hiba miatti késés
+57,Budapest-Déli - Tárnok,Baleset miatti késés
+58,Budapest-Déli - Veszprém,Biztosítóberendezési hiba miatti késés
+59,Budapest-Déli - Zagreb Glavni Kol.,Biztosítóberendezési hiba miatti késés
+60,Budapest-Déli - Zalaegerszeg,Baleset miatti késés
+61,Budapest-Keleti - Budapest-Nyugati,Baleset miatti késés
+62,Budapest-Keleti - Békéscsaba,Biztosítóberendezési hiba miatti késés
+63,Budapest-Keleti - Debrecen,Biztosítóberendezési hiba miatti késés
+64,Budapest-Keleti - Eger,Baleset miatti késés
+65,Budapest-Keleti - Frankfurt(Main)Hbf,Pálya állapota miatti késés
+66,Budapest-Keleti - Füzesabony,Biztosítóberendezési hiba miatti késés
+67,Budapest-Keleti - Graz Hbf,Baleset miatti késés
+68,Budapest-Keleti - Gyékényes,Biztosítóberendezési hiba miatti késés
+69,Budapest-Keleti - Győr,Biztosítóberendezési hiba miatti késés
+70,Budapest-Keleti - Gödöllő,Baleset miatti késés
+71,Budapest-Keleti - Hatvan,Biztosítóberendezési hiba miatti késés
+72,Budapest-Keleti - Hegyeshalom,Baleset miatti késés
+73,Budapest-Keleti - Innsbruck Hbf.,Társvasúttól átvett késés
+74,Budapest-Keleti - Kaposvár,Biztosítóberendezési hiba miatti késés
+75,Budapest-Keleti - Kazincbarcika,Pálya állapota miatti késés
+76,Budapest-Keleti - Kosice,Baleset miatti késés
+77,Budapest-Keleti - Ljubljana,Vonat műszaki hibája miatti késés
+78,Budapest-Keleti - Lőkösháza,Biztosítóberendezési hiba miatti késés
+79,Budapest-Keleti - Miskolc-Tiszai,Biztosítóberendezési hiba miatti késés
+80,Budapest-Keleti - München Hbf,Pálya állapota miatti késés
+81,Budapest-Keleti - Nagykáta,Csatlakozásra várás miatti késés
+82,Budapest-Keleti - Nyíregyháza,Biztosítóberendezési hiba miatti késés
+83,Budapest-Keleti - Prešov,Pálya állapota miatti késés
+84,Budapest-Keleti - Pécs,Biztosítóberendezési hiba miatti késés
+85,Budapest-Keleti - Sopron,Baleset miatti késés
+86,Budapest-Keleti - Szentgotthárd,Baleset miatti késés
+87,Budapest-Keleti - Szolnok,Biztosítóberendezési hiba miatti késés
+88,Budapest-Keleti - Szombathely,Baleset miatti késés
+89,Budapest-Keleti - Sülysáp,Biztosítóberendezési hiba miatti késés
+90,Budapest-Keleti - Timişoara Nord,Biztosítóberendezési hiba miatti késés
+91,Budapest-Keleti - Wien Hbf,Baleset miatti késés
+92,Budapest-Keleti - Zürich HB,Vonat műszaki hibája miatti késés
+93,Budapest-Nyugati - Cegléd,Baleset miatti késés
+94,Budapest-Nyugati - Dabas,Pálya állapota miatti késés
+95,Budapest-Nyugati - Debrecen,Baleset miatti késés
+96,Budapest-Nyugati - Esztergom,Biztosítóberendezési hiba miatti késés
+97,Budapest-Nyugati - Hamburg-Altona,Felsővezetéki hiba miatti késés
+98,Budapest-Nyugati - Kecskemét,Baleset miatti késés
+99,Budapest-Nyugati - Lajosmizse,Baleset miatti késés
+100,Budapest-Nyugati - Miskolc-Tiszai,Baleset miatti késés
+101,Budapest-Nyugati - Monor,Baleset miatti késés
+102,Budapest-Nyugati - Mukachevo,Biztosítóberendezési hiba miatti késés
+103,Budapest-Nyugati - Nyíregyháza,Baleset miatti késés
+104,Budapest-Nyugati - Piliscsaba,Más vonat által okozott késés
+105,Budapest-Nyugati - Praha hl. n.,Társvasúttól átvett késés
+106,Budapest-Nyugati - Szeged,Baleset miatti késés
+107,Budapest-Nyugati - Szentes,Pálya állapota miatti késés
+108,Budapest-Nyugati - Szob,Biztosítóberendezési hiba miatti késés
+109,Budapest-Nyugati - Szolnok,Baleset miatti késés
+110,Budapest-Nyugati - Terespol,Felsővezetéki hiba miatti késés
+111,Budapest-Nyugati - Táborfalva,Biztosítóberendezési hiba miatti késés
+112,Budapest-Nyugati - Vác,Baleset miatti késés
+113,Budapest-Nyugati - Vácrátót,Más vonat által okozott késés
+114,Budapest-Nyugati - Zajta,Más vonat által okozott késés
+115,Budapest-Nyugati - Záhony,Baleset miatti késés
+116,Bátaszék - Dombóvár,Időjárási ok miatti késés
+117,Bátaszék - Székesfehérvár,Biztosítóberendezési hiba miatti késés
+118,Bátaszék - Sárbogárd,Pálya állapota miatti késés
+119,Békéscsaba - Kötegyán,Biztosítóberendezési hiba miatti késés
+120,Békéscsaba - Lőkösháza,Biztosítóberendezési hiba miatti késés
+121,Békéscsaba - Mezőhegyes,Pályaépítés miatti késés
+122,Békéscsaba - Mezőtúr,Baleset miatti késés
+123,Békéscsaba - Orosháza,Biztosítóberendezési hiba miatti késés
+124,Békéscsaba - Salonta,Pálya állapota miatti késés
+125,Békéscsaba - Szeged,Baleset miatti késés
+126,Békéscsaba - Szolnok,Baleset miatti késés
+127,Békéscsaba - Vésztő,Biztosítóberendezési hiba miatti késés
+128,Cece - Dunaújváros,Vonat műszaki hibája miatti késés
+129,Cegléd - Kecskemét,Biztosítóberendezési hiba miatti késés
+130,Cegléd - Nyíregyháza,Biztosítóberendezési hiba miatti késés
+131,Cegléd - Szolnok,Biztosítóberendezési hiba miatti késés
+132,Cegléd - Záhony,Baleset miatti késés
+133,Celldömölk - Győr,Baleset miatti késés
+134,Celldömölk - Kaposvár,Más vonat által okozott késés
+135,Celldömölk - Keszthely,Vonat műszaki hibája miatti késés
+136,Celldömölk - Pápa,Csatlakozásra várás miatti késés
+137,Celldömölk - Szombathely,Biztosítóberendezési hiba miatti késés
+138,Celldömölk - Tapolca,Vonat műszaki hibája miatti késés
+139,Celldömölk - Veszprém,Pálya állapota miatti késés
+140,Celldömölk - Zalaegerszeg,Baleset miatti késés
+141,Cluj Napoca - Wien Hbf,Biztosítóberendezési hiba miatti késés
+142,Csengele - Kiskunfélegyháza,Csatlakozásra várás miatti késés
+143,Csenger - Debrecen,Pálya állapota miatti késés
+144,Csenger - Mátészalka,Csatlakozásra várás miatti késés
+145,Csorna - Pápa,Pálya állapota miatti késés
+146,Csorna - Szany-Rábaszentandrás,Pálya állapota miatti késés
+147,Csömör - Örs vezér tere,Forgalmi ok miatti késés
+148,Debrecen - Fehérgyarmat,Baleset miatti késés
+149,Debrecen - Füzesabony,Biztosítóberendezési hiba miatti késés
+150,Debrecen - Hajdúnánás,Csatlakozásra várás miatti késés
+151,Debrecen - Kisújszállás,Biztosítóberendezési hiba miatti késés
+152,Debrecen - Mátészalka,Baleset miatti késés
+153,Debrecen - Nagykereki,Vonat műszaki hibája miatti késés
+154,Debrecen - Nyíregyháza,Pálya állapota miatti késés
+155,Debrecen - Nyírgelse,Pálya állapota miatti késés
+156,Debrecen - Nyírábrány,Más vonat által okozott késés
+157,Debrecen - Oradea,Vonat műszaki hibája miatti késés
+158,Debrecen - Püspökladány,Vonat műszaki hibája miatti késés
+159,Debrecen - Satu Mare,Csatlakozásra várás miatti késés
+160,Debrecen - Tiborszállás,Baleset miatti késés
+161,Debrecen - Tiszafüred,Pálya állapota miatti késés
+162,Debrecen - Tiszalök,Csatlakozásra várás miatti késés
+163,Debrecen - Valea lui Mihai,Vonat műszaki hibája miatti késés
+164,Debrecen - Vámospércs,Más vonat által okozott késés
+165,Debrecen - Záhony,Baleset miatti késés
+166,Diósjenő - Vác,Biztosítóberendezési hiba miatti késés
+167,Dombóvár - Gyékényes,Baleset miatti késés
+168,Dombóvár - Komló,Csatlakozásra várás miatti késés
+169,Dombóvár - Nagykanizsa,Biztosítóberendezési hiba miatti késés
+170,Dombóvár - Pusztaszabolcs,Biztosítóberendezési hiba miatti késés
+171,Dombóvár - Pécs,Baleset miatti késés
+172,Dombóvár - Szentlőrinc,Csatlakozásra várás miatti késés
+173,Drégelypalánk - Vác,Vonat műszaki hibája miatti késés
+174,Dunaújváros - Simontornya,Vonat műszaki hibája miatti késés
+175,Eger - Füzesabony,Baleset miatti késés
+176,Eger - Hatvan,Biztosítóberendezési hiba miatti késés
+177,Eger - Szilvásvárad,Csatlakozásra várás miatti késés
+178,Egyek - Füzesabony,Más vonat által okozott késés
+179,Esztergom - Komárom,Más vonat által okozott késés
+180,Esztergom - Süttő,Vonat műszaki hibája miatti késés
+181,Fehérgyarmat - Mátészalka,Vonat műszaki hibája miatti késés
+182,Fehérgyarmat - Zajta,Időjárási ok miatti késés
+183,Felsőmocsolád - Kaposvár,Időjárási ok miatti késés
+184,Fonyód - Kaposvár,Biztosítóberendezési hiba miatti késés
+185,Fonyód - Keszthely,Csatlakozásra várás miatti késés
+186,Fonyód - Siófok,Biztosítóberendezési hiba miatti késés
+187,Füzesabony - Hatvan,Biztosítóberendezési hiba miatti késés
+188,Füzesabony - Miskolc-Tiszai,Baleset miatti késés
+189,Füzesabony - Nyíregyháza,Baleset miatti késés
+190,Füzesabony - Szerencs,Biztosítóberendezési hiba miatti késés
+191,Füzesabony - Sátoraljaújhely,Biztosítóberendezési hiba miatti késés
+192,Füzesabony - Vámosgyörk,Biztosítóberendezési hiba miatti késés
+193,Gyoma - Vésztő,Csatlakozásra várás miatti késés
+194,Gyula - Szeged,Pálya állapota miatti késés
+195,Gyékényes - Kaposvár,Biztosítóberendezési hiba miatti késés
+196,Gyékényes - Nagykanizsa,Biztosítóberendezési hiba miatti késés
+197,Gyöngyös - Vámosgyörk,Biztosítóberendezési hiba miatti késés
+198,Győr - Hegyeshalom,Biztosítóberendezési hiba miatti késés
+199,Győr - Kaposvár,Biztosítóberendezési hiba miatti késés
+200,Győr - Mosonmagyaróvár,Biztosítóberendezési hiba miatti késés
+201,Győr - Pécs,Biztosítóberendezési hiba miatti késés
+202,Győr - Rajka,Csatlakozásra várás miatti késés
+203,Győr - Szombathely,Baleset miatti késés
+204,Győr - Tatabánya,Biztosítóberendezési hiba miatti késés
+205,Győr - Veszprém,Biztosítóberendezési hiba miatti késés
+206,Győr - Wien Hbf,Biztosítóberendezési hiba miatti késés
+207,Gödöllő - Hatvan,Csatlakozásra várás miatti késés
+208,Gödöllő - Örs vezér tere,Utasforgalmi ok miatti késés
+209,Görögszállás - Tiszalök,Biztosítóberendezési hiba miatti késés
+210,Hatvan - Miskolc-Tiszai,Csatlakozásra várás miatti késés
+211,Hatvan - Pásztó,Baleset miatti késés
+212,Hatvan - Somoskőújfalu,Baleset miatti késés
+213,Hatvan - Szolnok,Biztosítóberendezési hiba miatti késés
+214,Hetényegyháza - Kecskemét,Baleset miatti késés
+215,Hidasnémeti - Miskolc-Tiszai,Csatlakozásra várás miatti késés
+216,Hodoš - Zalaegerszeg,Társvasúttól átvett késés
+217,Hódmezővásárhely - Kiskunfélegyháza,Csatlakozásra várás miatti késés
+218,Hódmezővásárhely - Szentes,Csatlakozásra várás miatti késés
+219,Hódmezővásárhely - Szolnok,Csatlakozásra várás miatti késés
+220,Hódmezővásárhely vasútállomás - Szeged vasútállomás,Csatlakozásra várás miatti késés
+221,Jászapáti - Szolnok,Pálya állapota miatti késés
+222,Jászapáti - Vámosgyörk,Pálya állapota miatti késés
+223,Jászapáti - Újszász,Pálya állapota miatti késés
+224,Kaposvár - Karád,Más vonat által okozott késés
+225,Kaposvár - Kisbárapáti,Rongálás miatti késés
+226,Kaposvár - Nagykanizsa,Pálya állapota miatti késés
+227,Kaposvár - Siófok,Időjárási ok miatti késés
+228,Kaposvár - Tab,Időjárási ok miatti késés
+229,Karcag - Tiszafüred,Csatlakozásra várás miatti késés
+230,Kecskemét - Kiskunfélegyháza,Csatlakozásra várás miatti késés
+231,Kecskemét - Lajosmizse,Baleset miatti késés
+232,Kecskemét - Lakitelek,Csatlakozásra várás miatti késés
+233,Kecskemét - Szolnok,Baleset miatti késés
+234,Kecskemét - Tiszakécske,Vonat műszaki hibája miatti késés
+235,Kecskemét - Táborfalva,Vonat műszaki hibája miatti késés
+236,Keszthely - Tapolca,Biztosítóberendezési hiba miatti késés
+237,Keszthely - Ukk,Pálya állapota miatti késés
+238,Kiskunfélegyháza - Kunszentmárton,Biztosítóberendezési hiba miatti késés
+239,Kiskunfélegyháza - Lakitelek,Biztosítóberendezési hiba miatti késés
+240,Kiskunfélegyháza - Szeged,Biztosítóberendezési hiba miatti késés
+241,Kiskunfélegyháza - Szentes,Biztosítóberendezési hiba miatti késés
+242,Kisköre - Kisújszállás,Pálya állapota miatti késés
+243,Kisköre - Kunhegyes,Más vonat által okozott késés
+244,Kisköre - Kál-Kápolna,Csatlakozásra várás miatti késés
+245,Kisújszállás - Kál-Kápolna,Biztosítóberendezési hiba miatti késés
+246,Komárom - Székesfehérvár,Biztosítóberendezési hiba miatti késés
+247,Kápolnásnyék - Kőbánya-Kispest,Biztosítóberendezési hiba miatti késés
+248,Kápolnásnyék - Üllő,Biztosítóberendezési hiba miatti késés
+249,Közvágóhíd - Ráckeve,Más vonattól átvett késés
+250,Közvágóhíd - Tököl,Más vonattól átvett késés
+251,Kőbánya-Kispest - Lajosmizse,Biztosítóberendezési hiba miatti késés
+252,Kőbánya-Kispest - Martonvásár,Biztosítóberendezési hiba miatti késés
+253,Kőbánya-Kispest - Székesfehérvár,Biztosítóberendezési hiba miatti késés
+254,Kőbánya-Kispest - Tárnok,Pálya állapota miatti késés
+255,Lakitelek - Szolnok,Vonat műszaki hibája miatti késés
+256,Lőkösháza - Mezőtúr,Biztosítóberendezési hiba miatti késés
+257,Lőkösháza - Szolnok,Biztosítóberendezési hiba miatti késés
+258,Magyarbóly - Pécs,Baleset miatti késés
+259,Magyarbóly - Villány,Vonat műszaki hibája miatti késés
+260,Martonvásár - Üllő,Pálya állapota miatti késés
+261,Mezőhegyes - Mezőtúr,Baleset miatti késés
+262,Mezőhegyes - Orosháza,Pálya állapota miatti késés
+263,Mezőtúr - Orosháza,Biztosítóberendezési hiba miatti késés
+264,Mezőtúr - Szarvas,Pálya állapota miatti késés
+265,Mezőtúr - Szolnok,Pálya állapota miatti késés
+266,Miskolc-Tiszai - Nyíregyháza,Baleset miatti késés
+267,Miskolc-Tiszai - Szendrő,Más vonat által okozott késés
+268,Miskolc-Tiszai - Szerencs,Más vonat által okozott késés
+269,Miskolc-Tiszai - Sátoraljaújhely,Biztosítóberendezési hiba miatti késés
+270,Miskolc-Tiszai - Tiszaújváros,Biztosítóberendezési hiba miatti késés
+271,Miskolc-Tiszai - Tornanádaska,Csatlakozásra várás miatti késés
+272,Miskolc-Tiszai - Ózd,Biztosítóberendezési hiba miatti késés
+273,Mohács - Pécs,Csatlakozásra várás miatti késés
+274,Mohács - Villány,Pálya állapota miatti késés
+275,Mátészalka - Nyírbátor,Pálya állapota miatti késés
+276,Mátészalka - Nyíregyháza,Biztosítóberendezési hiba miatti késés
+277,Mátészalka - Tiborszállás,Csatlakozásra várás miatti késés
+278,Mátészalka - Vásárosnamény,Csatlakozásra várás miatti késés
+279,Mátészalka - Zajta,Vonat műszaki hibája miatti késés
+280,Mátészalka - Záhony,Csatlakozásra várás miatti késés
+281,Nagyatád - Somogyszob,Csatlakozásra várás miatti késés
+282,Nagydorog - Székesfehérvár,Más vonat által okozott késés
+283,Nagykanizsa - Pécs,Baleset miatti késés
+284,Nagykanizsa - Szombathely,Csatlakozásra várás miatti késés
+285,Nagykanizsa - Zalaegerszeg,Vonat műszaki hibája miatti késés
+286,Nagykáta - Szolnok,Pálya állapota miatti késés
+287,Nagyszénás - Orosháza,Pálya állapota miatti késés
+288,Nagyszénás - Szentes,Más vonat által okozott késés
+289,Nyékládháza - Tiszaújváros,Pálya állapota miatti késés
+290,Nyíregyháza - Püspökladány,Pálya állapota miatti késés
+291,Nyíregyháza - Szerencs,Biztosítóberendezési hiba miatti késés
+292,Nyíregyháza - Szolnok,Vonat műszaki hibája miatti késés
+293,Nyíregyháza - Tiszalök,Pálya állapota miatti késés
+294,Nyíregyháza - Vásárosnamény,Baleset miatti késés
+295,Nyíregyháza - Záhony,Baleset miatti késés
+296,Orosháza - Szeged,Pálya állapota miatti késés
+297,Orosháza - Szentes,Pálya állapota miatti késés
+298,Oroszlány - Tatabánya,Baleset miatti késés
+299,Piliscsaba - Rákos,Biztosítóberendezési hiba miatti késés
+300,Pincehely - Pusztaszabolcs,Baleset miatti késés
+301,Pusztaszabolcs - Székesfehérvár,Biztosítóberendezési hiba miatti késés
+302,Pécs - Szentlőrinc,Pálya állapota miatti késés
+303,Pécs - Szombathely,Baleset miatti késés
+304,Püspökladány - Salonta,Hatósági intézkedés miatti késés
+305,Püspökladány - Szeghalom,Baleset miatti késés
+306,Püspökladány - Wien Hbf,Társvasúttól átvett késés
+307,Püspökladány - Záhony,Csatlakozásra várás miatti késés
+308,Rajka - Tatabánya,Biztosítóberendezési hiba miatti késés
+309,Rákos - Óbuda,Más vonat által okozott késés
+310,Rédics - Zalaegerszeg,Biztosítóberendezési hiba miatti késés
+311,Sellye - Szentlőrinc,Csatlakozásra várás miatti késés
+312,Siófok - Székesfehérvár,Biztosítóberendezési hiba miatti késés
+313,Siófok - Tab,Baleset miatti késés
+314,Szekszárd - Sárbogárd,Más vonat által okozott késés
+315,Szentes - Szolnok,Baleset miatti késés
+316,Szentes - Tiszatenyő,Biztosítóberendezési hiba miatti késés
+317,Szerencs - Sátoraljaújhely,Csatlakozásra várás miatti késés
+318,Szolnok - Vámosgyörk,Baleset miatti késés
+319,Szolnok - Záhony,Baleset miatti késés
+320,Szombathely - Veszprém,Baleset miatti késés
+321,Szombathely - Zalaegerszeg,Csatlakozásra várás miatti késés
+322,Székesfehérvár - Sárbogárd,Forgalmi ok miatti késés
+323,Székesfehérvár - Tapolca,Időjárási ok miatti késés
+324,Székesfehérvár - Veszprém,Baleset miatti késés
+325,Székesfehérvár - Üllő,Csatlakozásra várás miatti késés
+326,Sümeg - Ukk,Csatlakozásra várás miatti késés
+327,Tapolca - Ukk,Csatlakozásra várás miatti késés
+328,Tiborszállás - Vásárosnamény,Vonat műszaki hibája miatti késés
+329,Tiborszállás - Záhony,Pálya állapota miatti késés
+330,Vámosgyörk - Újszász,Biztosítóberendezési hiba miatti késés
+331,Vásárosnamény - Záhony,Vonat műszaki hibája miatti késés
+332,Wien Hbf - Záhony,Biztosítóberendezési hiba miatti késés
+333,Zalaegerszeg - Őriszentpéter,Társvasúttól átvett késés

@@ -1,0 +1,1307 @@
+,delay_cause,delay
+0," A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.",6.5
+1," A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",6.0
+2,.,38.0
+3,.;Vonat műszaki hibája miatti késés,56.46875
+4,1. osztályú kocsi nélkül közlekedik.,61.76744186046511
+5,1. osztályú kocsi nélkül közlekedik.;Hatósági intézkedés miatti késés,10.0
+6,1. osztályú kocsi nélkül közlekedik.;Más vonat által okozott késés,27.721311475409838
+7,1. osztályú kocsi nélkül közlekedik.;Pálya állapota miatti késés,10.228571428571428
+8,1. osztályú kocsi nélkül közlekedik.;Tartózkodási idő túllépése,8.25
+9,1. osztályú kocsi nélkül közlekedik.;Társvasúttól átvett késés,50.92857142857143
+10,1. osztályú kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,7.583333333333333
+11,18-as számú kocsi nélkül közlekedik.;Pálya állapota miatti késés,10.28125
+12,18-as számú kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,7.894736842105263
+13,22-es számú kocsi nélkül közlekedik.;Pálya állapota miatti késés,7.696969696969697
+14,23-as számú kocsi nélkül közlekedik.;Pálya állapota miatti késés,6.4
+15,414-es számú kocsi nélkül közlekedik.,13.833333333333332
+16,423-as számú kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,6.666666666666667
+17,423-as számú kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,6.0
+18,"A  vonat kerekesszékes utazásra alkalmas kocsi  nélkül közlekedik A vonat railjet kocsikat nem továbbít.
+
+;Társvasúttól átvett késés",8.0
+19,A 20-as számú kocsi a vonat elején található.;Pálya állapota miatti késés,9.470588235294118
+20,A 431-es és 432-es számú kocsik csak Nyíregyháza állomástól közlekednek. ;Társvasúttól átvett késés,12.902255639097744
+21,A 8047 sz. Dombóvárról érkező vonat késése miatt nem vár a csatlakozására.,6.5
+22,A 8047 sz. Dombóvárról érkező vonat késése miatt nem vár a csatlakozására.;Biztosítóberendezési hiba miatti késés,6.0
+23,A Dunakeszi állomástól minden állomáson és megállóhelyen megáll.,72.0
+24,A Zürich felől érkező kocsirész nélkül közlekedik.;Tartózkodási idő túllépése,8.0
+25,A jelenlegi késést figyelembe véve a szerelvény csak Budapest-Keleti pályaudvarig közlekedik. Budapest-Keleti pályaudvarról 05:40-kor másik szerelvény indul tovább. A tovább utazók az RJX162 vonattal tudnak tovább utazni.;Társvasúttól átvett késés,86.32394366197182
+26,"A kocsik számozása Záhony és Debrecen között a vonat elejétől kezdődően: 
+mozdony, 22,21,20,19,18,17
+Debrecen és Bp. Nyugati között:
+mozdony, 22,21,20,19,18,17, 33, 32,
+A 20 számú kocsi kerékpár valamint kerekesszék szállításra nem alkalmas.;Pálya állapota miatti késés",8.0
+27,"A kocsik számozása a vonat elejétől 432,431,413,415,414,412,410.;Pálya állapota miatti késés",18.96
+28,"A kocsik számozása a vonat elejétől 432,431,413,415,414,412,410.;Társvasúttól átvett késés",9.727272727272727
+29,"A kocsik számozása a vonat elejétől: 17,18,20,21,24,22,23;Pálya állapota miatti késés",10.345454545454546
+30,"A kocsik számozása a vonat elejétől:23,22,24,21,20,18,17;Pálya állapota miatti késés",7.739130434782608
+31,"A mai napon +6 perc késéssel, a 2024 sz. vonat menetrendje szerint közlekedik Bp.Nyugati - Rákosrendező között. ;Csatlakozásra várás miatti késés",7.35
+32,A mai napon 10:28-kor indul Budapest-Nyugati pályaudvarról.;Csatlakozásra várás miatti késés,8.506849315068493
+33,A mai napon 10:28-kor indul Budapest-Nyugati pályaudvarról.;Pálya állapota miatti késés,20.469026548672566
+34,A mai napon 8:08-kor indul Budapest-Nyugati pályaudvarról.,15.0
+35,A mai napon 8:08-kor indul Budapest-Nyugati pályaudvarról.;Baleset miatti késés,28.870967741935484
+36,A mai napon Angyalföldig közlekedik.,24.0
+37,A mai napon Angyalföldig közlekedik.;Vonat műszaki hibája miatti késés,21.615384615384617
+38,A mai napon Hajdúböszörményig közlekedik. Vonatpótló buszos közlekedés szervezése folyamatban.;Vonat műszaki hibája miatti késés,6.0
+39,A mai napon Kőbánya alsó mh.-en is megáll.;Pálya állapota miatti késés,15.383333333333333
+40,A mai napon Kőbánya-Kispest állomásig közlekedik.,72.0
+41,A mai napon Kőbánya-Kispest állomásig közlekedik.;Más vonat által okozott késés,71.95714285714286
+42,A mai napon Kőbánya-Kispest állomásig közlekedik.;Vonat műszaki hibája miatti késés,24.895833333333332
+43,A mai napon Kőbánya-Kispest állomásról indul.,18.666666666666668
+44,A mai napon Kőbánya-Kispest állomásról indul.;Baleset miatti késés,16.333333333333332
+45,"A mai napon Kőbánya-Kispest állomástól közlekedik. Kőbánya-Kispestig a 34 sz. Latorca InterCity vonattal utazhatnak, amely Kőbánya alsó mh.-en is megáll. Kőbánya-Kispest állomáson az átszállás biztosított.",12.6
+46,"A mai napon Kőbánya-Kispest állomástól közlekedik. Kőbánya-Kispestig a 34 sz. Latorca InterCity vonattal utazhatnak, amely Kőbánya alsó mh.-en is megáll. Kőbánya-Kispest állomáson az átszállás biztosított.;Csatlakozásra várás miatti késés",12.365853658536585
+47,"A mai napon Kőbánya-Kispest állomástól közlekedik. Kőbánya-Kispestig a 652 sz. TOKAJ InterCity vonattal utazhatnak, amely megáll Kőbánya-alsó megállóhelyen is.;Pálya állapota miatti késés",13.833333333333334
+48,"A mai napon Kőbánya-Kispest állomástól közlekedik. Kőbánya-Kispestig a 654 sz. TOKAJ InterCity vonattal utazhatnak, amely 10:28-kor indul Budapest-Nyugati pályaudvarról.",12.0
+49,"A mai napon Kőbánya-Kispest állomástól közlekedik. Kőbánya-Kispestig a 654 sz. TOKAJ InterCity vonattal utazhatnak, amely 10:28-kor indul Budapest-Nyugati pályaudvarról.;Vonat műszaki hibája miatti késés",8.666666666666666
+50,A mai napon Maglódig közlekedik. ;Vonat műszaki hibája miatti késés,38.05882352941177
+51,A mai napon Rákosrendező állomásig közlekedik.;Vonat műszaki hibája miatti késés,30.575757575757574
+52,"A mai napon Rákosrendező állomástól közlekedik. Az utasok Bp.Nyugati - Rákosrendező között a 2424 sz. vonattal utazhatnak, amely +6 perc késéssel, a 2024 sz. vonat menetrendje szerint közlekedik Bp.Nyugati - Rákosrendező között. ;Vonat műszaki hibája miatti késés",19.428571428571427
+53,A mai napon Sülysáp állomástól minden állomáson és megállóhelyen megáll.,14.0
+54,A mai napon Sülysáp állomástól minden állomáson és megállóhelyen megáll.;Felsővezetéki hiba miatti késés,31.76923076923077
+55,A mai napon Sülysáp állomástól minden állomáson és megállóhelyen megáll.;Más vonat által okozott késés,10.125
+56,A mai napon Sülysáp állomástól minden állomáson és megállóhelyen megáll.;Vonat műszaki hibája miatti késés,17.464285714285715
+57,A mai napon Táborfalva állomásig közlekedik. Az Utasok a 2942 számú vonattal tudnak tovább utazni.;Vonat műszaki hibája miatti késés,26.571428571428573
+58,A mai napon Táborfalva állomásig közlekedik.;Vonat műszaki hibája miatti késés,17.6
+59,"A személyvonat utolsó  kocsija műszaki ok miatt, Miskolc-Tiszai állomástól lezárva közlekedik. 
+",9.0
+60,"A személyvonat utolsó  kocsija műszaki ok miatt, Miskolc-Tiszai állomástól lezárva közlekedik. 
+;Vonat műszaki hibája miatti késés",15.43939393939394
+61,A szállítható kerékpárok mennyisége korlátozott.;Pálya állapota miatti késés,7.0
+62,A szállítható kerékpárok mennyisége korlátozott.;Vonat műszaki hibája miatti késés,6.0
+63,"A vonat  18-as és 19-es számú 1.osztályú kocsi illetve bisztró kocsi nélkül közlekedik.;>Nyíregyháza állomástól mentesítő vonat közlekedik, mely InterCity kocsikat nem továbbít.;Váltó meghibásodás miatti késés",58.1063829787234
+64,A vonat  18-as és 19-es számú 1.osztályú kocsi illetve bisztró kocsi nélkül közlekedik.;Váltó meghibásodás miatti késés,49.4
+65,A vonat 1.osztályú kocsi nélkül közlekedik.,12.475
+66,A vonat 1.osztályú kocsi nélkül közlekedik.;Társvasúttól átvett késés,14.657894736842104
+67,A vonat 10-15 perc késéssel indul Bp. Keleti pályaudvarról.,10.0
+68,A vonat 10-15 perc késéssel indul Bp. Keleti pályaudvarról.;Vonat műszaki hibája miatti késés,13.909090909090908
+69,A vonat 10-15 perc késéssel indul Szolnok állomásról.,37.0
+70,A vonat 10-15 perc késéssel indul Szolnok állomásról.;Vonat műszaki hibája miatti késés,39.6
+71,A vonat 18-as és 19-es számú 1.osztályú kocsi illetve bisztró kocsi nélkül közlekedik.;Pálya állapota miatti késés,26.116883116883116
+72,A vonat 18-as és 19-es számú 1.osztályú kocsi illetve bisztró kocsi nélkül közlekedik.;Tartózkodási idő túllépése,16.25
+73,A vonat 20-as számú InterCity minőségű kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,7.604166666666667
+74,"A vonat 21-es számú kocsi nélkül közlekedik, utazásra nem vehető igénybe.",7.333333333333333
+75,"A vonat 21-es számú kocsi nélkül közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",15.191780821917808
+76,"A vonat 21-es számú kocsija lezárva közlekedik, utazásra nem vehető igénybe.",6.0
+77,"A vonat 21-es számú kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",11.680851063829786
+78,"A vonat 21-es számú kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",6.892307692307693
+79,A vonat 22-es és 23-as számú kocsik nélkül közlekedik.;>A kocsi számozása a vonat elejétől: 21-20-18-17.;Más vonat által okozott késés,6.0
+80,A vonat 22-es és 23-as számú kocsik nélkül közlekedik.;>A kocsi számozása a vonat elejétől: 21-20-18-17.;Pálya állapota miatti késés,7.125
+81,A vonat 22-es és 23-as számú kocsik nélkül közlekedik.;Pálya állapota miatti késés,21.823529411764707
+82,A vonat 22-es és 23-as számú kocsik nélkül közlekedik.;Vonat műszaki hibája miatti késés,13.4
+83,"A vonat 264,265,267-es számú kocsi nélkül közlekedik.;Társvasúttól átvett késés",9.8
+84,A vonat 423-as számú kocsi nélkül közlekedik.;Társvasúttól átvett késés,18.828125
+85,A vonat 428-as számú kocsi nélkül közlekedik.;Társvasúttól átvett késés,23.282608695652176
+86,"A vonat 431, 432-es számú halókocsik nélkül közlekedik;Pálya állapota miatti késés",7.545454545454546
+87,"A vonat 431, 432-es számú halókocsik nélkül közlekedik;Vonat műszaki hibája miatti késés",8.639344262295081
+88,A vonat 431-es és 432-es számú hálókocsik nélkül közlekedik.;Pálya állapota miatti késés,7.76984126984127
+89,A vonat 434-ös számú kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,21.89189189189189
+90,A vonat 435-ös számú kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,18.615384615384617
+91,A vonat Abony állomáson is megáll.;Pálya állapota miatti késés,10.921875
+92,A vonat Adácson és Nagyúton is megáll.;Vonat műszaki hibája miatti késés,31.27777777777778
+93,A vonat Angyalföld állomásig Pázmáneum megállóhely kivételével minden állomáson és megállóhelyen megáll.,25.0
+94,A vonat Angyalföld állomásig Pázmáneum megállóhely kivételével minden állomáson és megállóhelyen megáll.;Tartózkodási idő túllépése,11.916666666666666
+95,A vonat Angyalföld állomásig közeledik.,37.0
+96,A vonat Angyalföld állomásig közeledik.;Tartózkodási idő túllépése,39.542857142857144
+97,A vonat Angyalföld állomásig közlekedik. Utasaink a 3211 számú vonattal utazhatnak tovább.;Vonat műszaki hibája miatti késés,17.5
+98,A vonat Angyalföld állomáson is megáll.;Tartózkodási idő túllépése,6.0
+99,A vonat Angyalföld állomástól közeledik.,28.0
+100,A vonat Angyalföld állomástól közeledik.;Tartózkodási idő túllépése,25.258064516129032
+101,"A vonat Anna-kút megállóból indul, Szeged vasútállomás Anna-kút között pótlóbuszok közlekednek.",19.666666666666668
+102,"A vonat Anna-kút megállóból indul, Szeged vasútállomás Anna-kút között pótlóbuszok közlekednek.;>A vonat nem közlekedik.",6.166666666666667
+103,"A vonat Anna-kút megállóból indul, Szeged vasútállomás Anna-kút között pótlóbuszok közlekednek.;Társvasúttól átvett késés",16.363636363636363
+104,A vonat Bp. Keleti - Gödöllő között minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,11.127659574468085
+105,A vonat Bp. Keleti - Gödöllő között minden állomáson és megállóhelyen megáll.;Tartózkodási idő túllépése,6.0
+106,A vonat Bp. Keleti pályaudvarról 40-45 perc késéssel indul.,46.0
+107,A vonat Bp. Keleti pályaudvarról 40-45 perc késéssel indul.;Vonat műszaki hibája miatti késés,49.09090909090909
+108,A vonat Budapest Keleti állomásról 30-40 perc késéssel indul.,34.0
+109,A vonat Budapest Keleti állomásról 30-40 perc késéssel indul.;Biztosítóberendezési hiba miatti késés,46.74193548387097
+110,"A vonat Budapest-Kelenföld állomásról indul. Utasaink Budapest-Déli és Budapest-Kelenföld között a 4212 számú S42-es személyvonattal utazhatnak, melyről Budapest-Kelenföld állomáson az átszállás biztosított.",10.0
+111,"A vonat Budapest-Kelenföld állomásról indul. Utasaink Budapest-Déli és Budapest-Kelenföld között a 4212 számú S42-es személyvonattal utazhatnak, melyről Budapest-Kelenföld állomáson az átszállás biztosított.;Vonat műszaki hibája miatti késés",20.25
+112,"A vonat Budapest-Kelenföld állomásról indul. Utasaink Budapest-Keleti és Budapest-Kelenföld között a 814 sz. TENKES InterCity vonattal utazhatnak, melyről az átszállás biztosított.;Vonat műszaki hibája miatti késés",33.0
+113,A vonat Cegléd állomásról indul. Utasaink a 2814 számú vonattal utazhatnak Cegléd állomásig.,21.5
+114,A vonat Cegléd állomásról indul. Utasaink a 2814 számú vonattal utazhatnak Cegléd állomásig.;Baleset miatti késés,22.594594594594593
+115,A vonat Cegléd állomásról indul.;Csatlakozásra várás miatti késés,6.166666666666667
+116,A vonat Cegléd állomástól előreláthatólag 10-15 perc késéssel közlekedik tovább.,10.8
+117,A vonat Csárdaszállás állomáson is megáll.,7.0
+118,A vonat Csárdaszállás állomáson is megáll.;Csatlakozásra várás miatti késés,10.0
+119,"A vonat Dombóvár-Budapest-Keleti között nem közlekedik, Utasaink az IC 807 számú vonattal tudnak továbbutazni.;Időjárási ok miatti késés",54.578947368421055
+120,"A vonat Dombóvár-Budapest-Keleti között nem közlekedik, Utasaink az IC 807 számú vonattal tudnak továbbutazni.;Pálya állapota miatti késés",41.416666666666664
+121,A vonat Eplény állomásig közlekedik.,103.0
+122,A vonat Eplény állomásig közlekedik.;Vonat műszaki hibája miatti késés,95.67647058823529
+123,A vonat Eplény állomástól közlekedik.,13.0
+124,A vonat Eplény állomástól közlekedik.;Vonat műszaki hibája miatti késés,10.666666666666666
+125,A vonat Győr és Budapest-Kelenföld között minden állomáson és megállóhelyen megáll.,27.0
+126,A vonat Győr és Budapest-Kelenföld között minden állomáson és megállóhelyen megáll.;Társvasúttól átvett késés,35.42857142857143
+127,A vonat Gödöllő - Bp. Keleti között minden állomáson és megállóhelyen megáll.;Biztosítóberendezési hiba miatti késés,36.0
+128,A vonat Gödöllő - Bp. Keleti között minden állomáson és megállóhelyen megáll.;Pálya állapota miatti késés,22.0
+129,A vonat Gödöllő-Állami telepek megállóhelyen is megáll.,13.0
+130,A vonat Gödöllő-Állami telepek megállóhelyen is megáll.;Biztosítóberendezési hiba miatti késés,6.9375
+131,A vonat Hatvan állomásig nem InterCity minőségű kocsikkal közlekedik. Utasainknak Hatvan állomáson másik szerelvénybe kell átszállniuk.;Pálya állapota miatti késés,14.628205128205128
+132,A vonat Hévízgyörk és Galgahévíz megállóhelyeken is megáll.;Pálya állapota miatti késés,13.194444444444445
+133,A vonat IC minőségű kocsi nélkül (Ksz:21) közlekedik.;Vonat műszaki hibája miatti késés,7.818181818181818
+134,A vonat Kecskemét és Cegléd állomások között nem közlekedik.;Pálya állapota miatti késés,6.222222222222222
+135,A vonat Komárom állomásig közlekedik.,15.0
+136,A vonat Komárom állomásról indul.;Más vonat által okozott késés,62.1025641025641
+137,A vonat Komárom és Győr között minden állomáson és megállóhelyen megáll. ;Csatlakozásra várás miatti késés,92.90625
+138,A vonat Komárom és Győr között minden állomáson és megállóhelyen megáll. ;Más vonat által okozott késés,88.48648648648648
+139,A vonat Komárom és Győr között minden állomáson és megállóhelyen megáll. ;Vasútüzemen kívülálló ok miatti késés,100.2
+140,A vonat Komárom és Győr között minden állomáson és megállóhelyen megáll. ;Vonat műszaki hibája miatti késés,103.28571428571429
+141,A vonat Kőbánya felső állomásig közlekedik. ;Biztosítóberendezési hiba miatti késés,14.352941176470589
+142,"A vonat Kőbánya felső állomásig közlekedik. Utasaink az 557 sz. AGRIA InterRégió vonattal utazhatnak tovább, mely Kőbánya felső állomáson is megáll. ;Biztosítóberendezési hiba miatti késés",15.0
+143,"A vonat Kőbánya felső állomásról indul. Utasaink az 544 sz. AGRIA InterRégió vonattal utazhatnak, mely Kőbánya felső állomáson is megáll. ",14.0
+144,"A vonat Kőbánya felső állomásról indul. Utasaink az 544 sz. AGRIA InterRégió vonattal utazhatnak, mely Kőbánya felső állomáson is megáll. ;Vonat műszaki hibája miatti késés",13.25
+145,A vonat Kőbánya felső és Rákos állomáson is megáll.;Biztosítóberendezési hiba miatti késés,21.221153846153847
+146,A vonat Kőbánya felső és Rákos állomáson is megáll.;Tartózkodási idő túllépése,11.4
+147,A vonat Kőbánya-Kispest állomásról indul.,68.65454545454546
+148,A vonat Kőbánya-Kispest állomásról indul.;Baleset miatti késés,7.777777777777778
+149,A vonat Kőbánya-Kispest állomásról indul.;Más vonat által okozott késés,30.797101449275363
+150,A vonat Kőbánya-Kispest állomásról indul.;Pálya állapota miatti késés,11.093023255813954
+151,A vonat Kőbánya-Kispest állomásról indul.;Vonat műszaki hibája miatti késés,17.153846153846153
+152,A vonat Kőbánya-Kispestről indul.,6.666666666666667
+153,A vonat Kőbánya-Kispestről indul.;Csatlakozásra várás miatti késés,6.0
+154,"A vonat Miskolc Tiszai állomástól közlekedik. Füzesabony és Miskolc Tiszai között a Tokaj IC vonattal utazhatnak, mely a fenti viszonylaton minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés",7.545454545454546
+155,"A vonat Miskolc Tiszai állomástól közlekedik. Füzesabony és Miskolc Tiszai között a Tokaj IC vonattal utazhatnak, mely a fenti viszonylaton minden állomáson és megállóhelyen megáll.;Pálya állapota miatti késés",10.166666666666666
+156,A vonat Monor állomástól minden állomáson és megállóhelyen megáll.,55.833333333333336
+157,A vonat Monor állomástól minden állomáson és megállóhelyen megáll.;Más vonat által okozott késés,24.0
+158,A vonat Monor állomástól minden állomáson és megállóhelyen megáll.;Pálya állapota miatti késés,18.05
+159,A vonat Monor állomástól minden állomáson és megállóhelyen megáll.;Tartózkodási idő túllépése,26.5
+160,A vonat Monor állomástól minden állomáson és megállóhelyen megáll.;Vonat műszaki hibája miatti késés,27.153846153846153
+161,"A vonat Murony állomásig közlekedik. Utasaink a 370 sz. ZARÁND InterCity vonattal utazhatnak, mely a mai napon Csárdaszállás állomáson is megáll.;Vonat műszaki hibája miatti késés",39.4
+162,"A vonat Nagymaros állomáson, Zebegény és Szob alsó  megállóhelyeken megáll.",22.0
+163,"A vonat Nagymaros állomáson, Zebegény és Szob alsó  megállóhelyeken megáll.;Biztosítóberendezési hiba miatti késés",22.0
+164,"A vonat Orosháza állomásig  lezárva közlekedik, utazásra nem vehető igénybe.",7.0
+165,"A vonat Orosháza állomásig  lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",8.74074074074074
+166,A vonat Pécs és Dombóvár állomások között minden állomáson és megállóhelyen megáll.,45.666666666666664
+167,"A vonat Pécs és Dombóvár állomások között minden állomáson és megállóhelyen megáll.;>A vonat megáll Szakály-Hőgyész, Pincehely és Simontornya állomásokon.;Baleset miatti késés",116.11320754716981
+168,"A vonat Pécs és Dombóvár állomások között minden állomáson és megállóhelyen megáll.;>A vonat megáll Szakály-Hőgyész, Pincehely és Simontornya állomásokon.;Csatlakozásra várás miatti késés",109.0
+169,A vonat Pécs és Dombóvár állomások között minden állomáson és megállóhelyen megáll.;Baleset miatti késés,61.5625
+170,A vonat Rákospalota-Újpest állomásról indul.;Felsővezetéki hiba miatti késés,63.0
+171,A vonat Rákospalota-Újpest állomástól közlekedik.;Felsővezetéki hiba miatti késés,90.55555555555556
+172,A vonat Rákospalota-Újpest és Bp. Nyugati között minden állomáson megáll.,82.0
+173,A vonat Rákospalota-Újpest és Bp. Nyugati között minden állomáson megáll.;Felsővezetéki hiba miatti késés,65.04545454545455
+174,A vonat Szob - Vác állomások között minden állomáson és megállóhelyen megáll.;>A vonat Vác állomástól S70 vonatként közlekedik. (2425 vonatszámban);Társvasúttól átvett késés,36.0
+175,A vonat Szob alsó és Zebegény megállóhelyeken és Nagymaros állomáson is megáll.;Társvasúttól átvett késés,40.64285714285714
+176,A vonat Szolnok állomásról indul.,29.666666666666668
+177,A vonat Szolnok állomásról indul. ;Csatlakozásra várás miatti késés,6.181818181818182
+178,"A vonat Szolnok állomásról indul. Utasaink a 614 sz. NYÍRSÉG InterCity vonattal utazhatnak, mely a mai napon Abony állomáson is megáll. Szolnok állomáson az átszállás biztosított.",7.0
+179,"A vonat Szolnok állomásról indul. Utasaink a 614 sz. NYÍRSÉG InterCity vonattal utazhatnak, mely a mai napon Abony állomáson is megáll. Szolnok állomáson az átszállás biztosított.;Vonat műszaki hibája miatti késés",32.38235294117647
+180,A vonat Szolnok állomásról indul.;Biztosítóberendezési hiba miatti késés,40.13157894736842
+181,"A vonat Szombathely és Budapest-Keleti között 1. osztályú kocsi, illetve kerekesszékkel történő utazásara és kerékpárszállításra alkalmas kocsi nélkül közlekedik. Szombathely állomáson másik szerelvénybe kell átszállni.;>Az Osztrák vasúti sztrájk miatt csak Szentgotthárd állomástól közlekedik.",10.272727272727273
+182,"A vonat Szombathely és Budapest-Keleti között 1. osztályú kocsi, illetve kerekesszékkel történő utazásara és kerékpárszállításra alkalmas kocsi nélkül közlekedik. Szombathely állomáson másik szerelvénybe kell átszállni.;>Az Osztrák vasúti sztrájk miatt csak Szentgotthárd állomástól közlekedik.;Társvasúttól átvett késés",7.761904761904762
+183,A vonat Székesfehérvár állomáson vár a hatósági helyszínelés végéig.;Baleset miatti késés,76.02962962962962
+184,A vonat Sülysáp állomásig minden állomáson és megállóhelyen megáll.,171.95833333333334
+185,A vonat Sülysáp állomásig minden állomáson és megállóhelyen megáll.;Biztosítóberendezési hiba miatti késés,79.63829787234043
+186,A vonat Sülysáp állomásig minden állomáson és megállóhelyen megáll.;Pálya állapota miatti késés,183.3181818181818
+187,A vonat Táborfalva állomásról indul.,41.45
+188,A vonat Táborfalva állomásról indul.;Hatósági intézkedés miatti késés,25.685714285714287
+189,A vonat Táborfalva állomásról indul.;Vasútüzemen kívülálló ok miatti késés,25.875
+190,A vonat Táborfalva állomásról indul.;Vonat műszaki hibája miatti késés,9.733333333333333
+191,"A vonat Ukk állomástól nem közlekedik, Utasaink a 9518 számú vonattal utazhatnak tovább.;Vonat műszaki hibája miatti késés",63.2
+192,A vonat Vác állomásig S70 vonatként közlekedik (2434);Csatlakozásra várás miatti késés,24.357142857142858
+193,A vonat Vác állomásig minden állomáson és megállóhelyen megáll.,7.5
+194,A vonat Vác állomásig minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,24.23076923076923
+195,A vonat Vác állomásról indul.;>A vonat Vác állomásról indul.,134.33333333333334
+196,A vonat Vác állomásról indul.;Felsővezetéki hiba miatti késés,135.0909090909091
+197,A vonat Vác állomástól S70 vonatként közlekedik. (2425 vonatszámban),36.0
+198,A vonat Vác állomástól S70 vonatként közlekedik. (2425 vonatszámban);Társvasúttól átvett késés,36.0
+199,A vonat Zalaszentiván állomásig közlekedik. Utasaink a 9813 számú vonattal utazhatnak.;Vonat műszaki hibája miatti késés,43.15686274509804
+200,A vonat a 3128 S80-as számú vonat menetrendjében közlekedik. Előreláthatólag 10 perc késéssel fog indulni.;Pálya állapota miatti késés,13.166666666666666
+201,"A vonat a 431 és 432 számú, Ukrajnából érkező hálókocsik nélkül közlekedik.",8.0
+202,"A vonat a 431 és 432 számú, Ukrajnából érkező hálókocsik nélkül közlekedik.;Más vonat által okozott késés",10.0
+203,"A vonat a 431 és 432 számú, Ukrajnából érkező hálókocsik nélkül közlekedik.;Vonat műszaki hibája miatti késés",9.368421052631579
+204,"A vonat a mai napon nem közlekedik Budapest-Keleti-Wien között. Helyette 11346 számú vonat közlekedik, a 12346 számú vonat menetrendi idejében. A járat hálókocsit nem továbbít. Utasaink a jelenlegi késést figyelembe véve a RJX 162 számú vonattal utazhatnak tovább.;Társvasúttól átvett késés",49.857142857142854
+205,"A vonat a mai napon nem közlekedik Budapest-Keleti-Wien között. Helyette 12348 számú vonat közlekedik, a 12346 számú vonat menetrendi idejében. A járat hálókocsit nem továbbít. Utasaink a jelenlegi késést figyelembe véve az EC 140 számú vonattal utazhatnak tovább.;Társvasúttól átvett késés",135.37078651685394
+206,"A vonat a mai napon nem közlekedik Budapest-Keleti-Wien között. Helyette 1346 számú vonat közlekedik, a 12346 számú vonat menetrendi idejében. A járat hálókocsit nem továbbít. Utasaink a jelenlegi késést figyelembe véve a RJX 162 számú vonattal utazhatnak tovább.;Társvasúttól átvett késés",138.0863997113997
+207,A vonat a mai napon nem közlekedik.;>A vonat nem közlekedik.,8.75
+208,A vonat bisztró szolgáltatás nélkül közlekedik.. ;Pálya állapota miatti késés,7.482758620689655
+209,A vonat bisztrószakasz és prémium osztály nélkül közlekedik. ;Felsővezetéki hiba miatti késés,7.428571428571429
+210,A vonat bisztrószakasz és prémium osztály nélkül közlekedik. ;Pálya állapota miatti késés,20.96527777777778
+211,A vonat bisztrószakasz és prémium osztály nélkül közlekedik. ;Tartózkodási idő túllépése,6.0
+212,"A vonat bisztrószakasz, valamint prémium osztály nélkül közlekedik. (19-es számú kocsi).",14.0
+213,"A vonat bisztrószakasz, valamint prémium osztály nélkül közlekedik. (19-es számú kocsi).;Csatlakozásra várás miatti késés",9.303030303030303
+214,"A vonat bisztrószakasz, valamint prémium osztály nélkül közlekedik. (19-es számú kocsi).;Pálya állapota miatti késés",7.56
+215,"A vonat bisztrószakasz, valamint prémium osztály nélkül közlekedik. (19-es számú kocsi).;Tartózkodási idő túllépése",9.666666666666666
+216,"A vonat bisztrószakasz, valamint prémium osztály nélkül közlekedik. (19-es számú kocsi).;Vonat műszaki hibája miatti késés",7.333333333333333
+217,"A vonat bisztrószakasz, valamint prémium és 1. osztály nélkül közlekedik.  A vonat utolsó kocsija lezárva közlekedik.",7.0
+218,"A vonat bisztrószakasz, valamint prémium és 1. osztály nélkül közlekedik.  A vonat utolsó kocsija lezárva közlekedik.;Biztosítóberendezési hiba miatti késés",33.54385964912281
+219,A vonat bisztrószolgáltatás nélkül közlekedik.,6.0
+220,A vonat bisztrószolgáltatás nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,12.037037037037036
+221,A vonat bisztrószolgáltatás nélkül közlekedik.;Csatlakozásra várás miatti késés,9.64
+222,A vonat bisztrószolgáltatás nélkül közlekedik.;Tartózkodási idő túllépése,26.26190476190476
+223,A vonat bisztrószolgáltatás nélkül közlekedik.;Vonat műszaki hibája miatti késés,9.0
+224,A vonat csak Angyalföldig közlekedik.;Biztosítóberendezési hiba miatti késés,16.916666666666668
+225,A vonat csak Cegléd állomásig közlekedik.;Csatlakozásra várás miatti késés,8.5
+226,A vonat csak Csorna állomásig közlekedik. Csorna és Győr között pótlóbusz közlekedik.;Forgalmi ok miatti késés,45.666666666666664
+227,"A vonat csak Debrecen állomásig közlekedik, Utasaink a 6102 számú vonattal utazhatnak tovább Nyíregyházáig.;Hatósági intézkedés miatti késés",34.0
+228,"A vonat csak Dombóvárig közlekedik. Budapest felé a késéssel közlekedő 809 számú BARANYA InterCity vonattal lehet eljutni, amely megáll Szakály-Hőgyész, Pincehely és Simontornya állomásokon.;Időjárási ok miatti késés",57.0
+229,"A vonat csak Hatvan állomásig közlekedik, Utasaink a következő alkalmas vonattal utazhatnak tovább.;Baleset miatti késés",90.34782608695652
+230,A vonat csak Kőbánya-Kispest állomásig közlekedik.,61.680952380952384
+231,A vonat csak Kőbánya-Kispest állomásig közlekedik.;Baleset miatti késés,200.3657894736842
+232,A vonat csak Kőbánya-Kispest állomásig közlekedik.;Biztosítóberendezési hiba miatti késés,28.0
+233,A vonat csak Kőbánya-Kispest állomásig közlekedik.;Más vonat által okozott késés,17.0
+234,A vonat csak Kőbánya-Kispest állomásig közlekedik.;Tartózkodási idő túllépése,12.0
+235,A vonat csak Kőbánya-Kispest állomásig közlekedik.;Vonat műszaki hibája miatti késés,40.15
+236,A vonat csak Martonvásár állomástól közlekedik. Martonvásárra a 4518 számú Z30-as vonattal lehet eljutni. Martonvásáron az átszállás biztosított.;Csatlakozásra várás miatti késés,13.518518518518519
+237,A vonat csak Mende állomásig közlekedik.;Biztosítóberendezési hiba miatti késés,21.833333333333332
+238,A vonat csak Rákos állomásig közlekedik.,9.4
+239,A vonat csak Rákos állomásig közlekedik.;Biztosítóberendezési hiba miatti késés,78.75
+240,A vonat csak Rákos állomásról indul. ,8.0
+241,A vonat csak Rákos állomásról indul. ;Biztosítóberendezési hiba miatti késés,10.454545454545455
+242,A vonat csak Rákospalota-Újpest állomásig közlekedik.,27.0
+243,A vonat csak Rákospalota-Újpest állomásig közlekedik.;Felsővezetéki hiba miatti késés,128.875
+244,A vonat csak Rákosrendező állomásig közlekedik.,24.857142857142858
+245,A vonat csak Rákosrendező állomásig közlekedik.;Felsővezetéki hiba miatti késés,52.86666666666667
+246,A vonat csak Szolnok állomásig közlekedik.;Biztosítóberendezési hiba miatti késés,34.285714285714285
+247,"A vonat csak Szolnok állomástól közlekedik. Szolnokra a 2608 számú G50-es vonattal lehet eljutni, ahol az átszállás biztosított.;Csatlakozásra várás miatti késés",38.01234567901235
+248,A vonat csak Táborfalva állomásig közlekedik.;Baleset miatti késés,42.432432432432435
+249,A vonat csak Táborfalva állomásig közlekedik.;Vasútüzemen kívülálló ok miatti késés,64.03846153846153
+250,A vonat csak Táborfalva állomásig közlekedik.;Vonat műszaki hibája miatti késés,34.170212765957444
+251,A vonat csak Táborfalva állomástól közlekedik.;Biztosítóberendezési hiba miatti késés,15.80952380952381
+252,A vonat csak Ócsa állomásig közlekedik.;Baleset miatti késés,113.4047619047619
+253,"A vonat elején 2 kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Biztosítóberendezési hiba miatti késés",10.434782608695652
+254,"A vonat elején 2 kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",7.0
+255,"A vonat elején 2 kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Tartózkodási idő túllépése",11.0
+256,"A vonat elején 2 kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",17.505158730158733
+257,"A vonat elején 3 kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",6.555555555555555
+258,"A vonat elején egy kocsi lezárva közlekedik, utazásra nem vehető igénybe.",33.0
+259,"A vonat elején egy kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Csatlakozásra várás miatti késés",19.967741935483872
+260,"A vonat elején egy kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",69.46531298948295
+261,"A vonat elején egy kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Tartózkodási idő túllépése",15.933333333333334
+262,"A vonat elején egy kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Társvasúttól átvett késés",10.666666666666666
+263,"A vonat elején egy kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",67.61484870263895
+264,"A vonat elején három kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Biztosítóberendezési hiba miatti késés",8.421052631578947
+265,"A vonat elején három kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",7.571428571428571
+266,"A vonat elején kettő kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",20.863157894736844
+267,"A vonat elején kettő kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",11.23076923076923
+268,"A vonat első három kocsija lezárva közlekedik, utazásra nem vehető igénybe. ",6.0
+269,"A vonat első három kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Pálya állapota miatti késés",11.11111111111111
+270,"A vonat első három kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",7.166666666666667
+271,"A vonat első kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.",8.0
+272,"A vonat első kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Pálya állapota miatti késés",6.818181818181818
+273,"A vonat első kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",29.360677555958862
+274,"A vonat első kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Tartózkodási idő túllépése",6.523809523809524
+275,"A vonat első kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",10.0
+276,A vonat első kettő kocsija lezárva közlekedik.,6.0
+277,A vonat első kettő kocsija lezárva közlekedik.;Tartózkodási idő túllépése,6.95
+278,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.",36.4
+279,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. ",7.0
+280,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Biztosítóberendezési hiba miatti késés",7.0
+281,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",7.0
+282,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. A vonat 1. osztályú kocsi nélkül közlekedik.",6.428571428571429
+283,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. A vonat 1. osztályú kocsi nélkül közlekedik.;Társvasúttól átvett késés",9.11111111111111
+284,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;>A vonat előreláthatólag 40-50 perc késéssel közlekedik.",55.0
+285,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;>A vonat előreláthatólag 40-50 perc késéssel közlekedik.;Csatlakozásra várás miatti késés",56.023529411764706
+286,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Biztosítóberendezési hiba miatti késés",6.0
+287,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Csatlakozásra várás miatti késés",15.761904761904763
+288,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Más vonat által okozott késés",7.833333333333333
+289,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",103.32210117526382
+290,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Tartózkodási idő túllépése",18.0
+291,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Társvasúttól átvett késés",21.142857142857142
+292,"A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",82.18216725903565
+293,A vonat első kocsija lezárva közlekedik.,33.0
+294,A vonat első kocsija lezárva közlekedik.;Csatlakozásra várás miatti késés,12.84375
+295,A vonat első kocsija lezárva közlekedik.;Más vonat által okozott késés,6.0
+296,A vonat első kocsija lezárva közlekedik.;Társvasúttól átvett késés,11.428571428571429
+297,A vonat első kocsija lezárva közlekedik.;Vonat műszaki hibája miatti késés,18.88888888888889
+298,A vonat első kocsija műszaki ok miatt lezárva közlekedik.;Pálya állapota miatti késés,21.03174603174603
+299,"A vonat első két kocsija lezárva közlekedik, utazásra nem vehető igénybe.",7.0
+300,"A vonat első két kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",8.508771929824562
+301,"A vonat első négy kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",7.865384615384615
+302,"A vonat első négy kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",6.787234042553192
+303,"A vonat első négy kocsija lezárva közlekedik, utazásra nem vehetők igénybe.;Csatlakozásra várás miatti késés",6.235294117647059
+304,"A vonat első öt kocsija lezárva közlekedik, utazásra nem vehető igénybe.",16.0
+305,"A vonat első öt kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",23.183333333333334
+306,A vonat előreláthatólag 10 perc késéssel közlekedik.,39.6
+307,A vonat előreláthatólag 10 perc késéssel közlekedik.;Csatlakozásra várás miatti késés,24.12087912087912
+308,A vonat előreláthatólag 10 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,45.63333333333333
+309,A vonat előreláthatólag 10-15 perc késéssel indul Budapest-Keleti pályaudvarról.,13.0
+310,A vonat előreláthatólag 10-15 perc késéssel indul Budapest-Keleti pályaudvarról.;Pálya állapota miatti késés,14.055555555555555
+311,A vonat előreláthatólag 10-15 perc késéssel közlekedik.,30.666666666666668
+312,A vonat előreláthatólag 10-15 perc késéssel érkezik Hegyeshalom határállomásra.,6.0
+313,A vonat előreláthatólag 10-15 perc késéssel érkezik Hegyeshalom határállomásra.;Társvasúttól átvett késés,11.0
+314,A vonat előreláthatólag 100 perc késéssel közlekedik. A vonat a Budapest-Kelenföld állomásig közlekedik.;Társvasúttól átvett késés,118.8
+315,A vonat előreláthatólag 100 perc késéssel közlekedik.;Társvasúttól átvett késés,124.0
+316,A vonat előreláthatólag 100-110 perc késéssel közlekedik.,117.0
+317,A vonat előreláthatólag 100-110 perc késéssel közlekedik.;Más vonat által okozott késés,120.9090909090909
+318,A vonat előreláthatólag 100-110 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,126.0
+319,A vonat előreláthatólag 100-120 perc késéssel közlekedik.;Baleset miatti késés,74.0
+320,A vonat előreláthatólag 15 perc késéssel közlekedik.,8.0
+321,A vonat előreláthatólag 15 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,28.758333333333333
+322,A vonat előreláthatólag 15-20 perc késéssel fog közlekedni.,11.0
+323,A vonat előreláthatólag 15-20 perc késéssel fog közlekedni.;Csatlakozásra várás miatti késés,10.210526315789474
+324,A vonat előreláthatólag 20 perc késéssel közlekedik.,13.8
+325,A vonat előreláthatólag 20 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,9.647727272727273
+326,A vonat előreláthatólag 20-25 perc késéssel közlekedik.,46.12605042016807
+327,A vonat előreláthatólag 20-25 perc késéssel közlekedik.;Társvasúttól átvett késés,25.066666666666666
+328,A vonat előreláthatólag 20-25 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,77.04686868686869
+329,"A vonat előreláthatólag 20-30 perc késéssel fog indulni.;>A vonat végén három kocsi lezárva közlekedik, utazásra nem vehető igénybe. ",13.0
+330,"A vonat előreláthatólag 20-30 perc késéssel fog indulni.;>A vonat végén három kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",13.428571428571429
+331,A vonat előreláthatólag 20-30 perc késéssel közlekedik.,42.888888888888886
+332,A vonat előreláthatólag 20-30 perc késéssel közlekedik.;Csatlakozásra várás miatti késés,23.4
+333,A vonat előreláthatólag 20-30 perc késéssel közlekedik.;Pálya állapota miatti késés,23.2
+334,A vonat előreláthatólag 25 perc késéssel érkezik Szob határállomásra.;Társvasúttól átvett késés,33.0
+335,A vonat előreláthatólag 25-30 perc késéssel fog indulni.,32.0
+336,A vonat előreláthatólag 25-30 perc késéssel fog indulni.;Társvasúttól átvett késés,35.0
+337,A vonat előreláthatólag 25-30 perc késéssel közlekedik.,25.166666666666668
+338,A vonat előreláthatólag 25-30 perc késéssel közlekedik.;Társvasúttól átvett késés,31.933333333333334
+339,A vonat előreláthatólag 25-30 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,15.525
+340,A vonat előreláthatólag 30 -40 perc késéssel közlekedik.,21.333333333333332
+341,A vonat előreláthatólag 30 -40 perc késéssel közlekedik.;Más vonat által okozott késés,16.70967741935484
+342,A vonat előreláthatólag 30-40 perc késéssel közlekedik.,65.0
+343,A vonat előreláthatólag 30-40 perc késéssel közlekedik.;Más vonat által okozott késés,67.83333333333333
+344,A vonat előreláthatólag 35 -40 perc késéssel közlekedik.,42.0
+345,A vonat előreláthatólag 35 -40 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,43.55102040816327
+346,A vonat előreláthatólag 35 perc késéssel érkezik Szob határállomásra.;Társvasúttól átvett késés,47.0
+347,A vonat előreláthatólag 40-45 perc késéssel közlekedik.,32.888888888888886
+348,A vonat előreláthatólag 40-45 perc késéssel közlekedik.;Más vonat által okozott késés,65.51724137931035
+349,A vonat előreláthatólag 40-45 perc késéssel közlekedik.;Társvasúttól átvett késés,58.93333333333333
+350,A vonat előreláthatólag 40-50 perc késéssel közlekedik.,60.0
+351,A vonat előreláthatólag 45 perc késéssel fog indulni Lőkösháza állomásról.,19.0
+352,A vonat előreláthatólag 45 perc késéssel fog indulni Lőkösháza állomásról.;Társvasúttól átvett késés,45.38461538461539
+353,A vonat előreláthatólag 45-50 perc késéssel közlekedik.;Társvasúttól átvett késés,59.333333333333336
+354,A vonat előreláthatólag 5 perc késéssel indul Budapest -Keleti pályaudvarról és Kőbánya felső állomáson is megáll.;Csatlakozásra várás miatti késés,7.264705882352941
+355,A vonat előreláthatólag 5 perc késéssel indul Budapest -Keleti pályaudvarról és Kőbánya felső állomáson is megáll.;Pálya állapota miatti késés,9.0
+356,A vonat előreláthatólag 5-10 perc késéssel fog indulni.,7.0
+357,A vonat előreláthatólag 5-10 perc késéssel közlekedik.,6.5
+358,A vonat előreláthatólag 5-10 perc késéssel közlekedik.;Más vonat által okozott késés,13.736842105263158
+359,A vonat előreláthatólag 5-10 perc késéssel közlekedik.;Társvasúttól átvett késés,10.5
+360,A vonat előreláthatólag 50 perc késéssel közlekedik.,46.0
+361,A vonat előreláthatólag 50 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,47.0
+362,A vonat előreláthatólag 50-60 perc késéssel közlekedik.;Más vonat által okozott késés,78.0
+363,A vonat előreláthatólag 50-60 perc késéssel közlekedik.;Társvasúttól átvett késés,63.03125
+364,A vonat előreláthatólag 60 perc késéssel közlekedik.,54.23809523809524
+365,A vonat előreláthatólag 60 perc késéssel közlekedik. ,57.25
+366,A vonat előreláthatólag 60 perc késéssel közlekedik. ;Csatlakozásra várás miatti késés,62.666666666666664
+367,A vonat előreláthatólag 60 perc késéssel közlekedik. ;Más vonat által okozott késés,67.9090909090909
+368,A vonat előreláthatólag 60 perc késéssel közlekedik.;Társvasúttól átvett késés,74.26666666666667
+369,A vonat előreláthatólag 60 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,78.70370370370371
+370,A vonat előreláthatólag 60-70 perc késéssel közlekedik.;Csatlakozásra várás miatti késés,68.0
+371,A vonat előreláthatólag 60-70 perc késéssel közlekedik.;Tartózkodási idő túllépése,37.064516129032256
+372,A vonat előreláthatólag 80 perc késéssel közlekedik.;Társvasúttól átvett késés,79.71428571428571
+373,A vonat helyett Csorna és Győr között pótlóbusz közlekedik.,43.56666666666666
+374,A vonat helyett Csorna és Győr között pótlóbusz közlekedik.;Biztosítóberendezési hiba miatti késés,6.0
+375,A vonat helyett Csorna és Győr között pótlóbusz közlekedik.;Forgalmi ok miatti késés,58.10526315789474
+376,A vonat helyett Orosháza és Nagyszánás között pótlóbusz közlekedik.;Más vonat által okozott késés,26.333333333333332
+377,A vonat hálókocsikat nem továbbít. Budapest-Keleti pályaudvaron másik szerelvénybe kell átszállni.;Társvasúttól átvett késés,12.134920634920634
+378,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.,132.29780701754385
+379,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>A  vonat 20-as számú kocsija a vonat elején található.;Vonat műszaki hibája miatti késés,7.0212765957446805
+380,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>A vonat csak Kelenföld állomásig közlekedik.;Biztosítóberendezési hiba miatti késés,18.666666666666668
+381,"A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Időjárási ok miatti késés",6.0
+382,"A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Társvasúttól átvett késés",7.243243243243243
+383,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>A vonat utolsó kocsija lezárva közlekedik.;Pálya állapota miatti késés,6.0
+384,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>A vonat utolsó kocsija lezárva közlekedik.;Társvasúttól átvett késés,8.822222222222223
+385,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,73.88249637155297
+386,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Csatlakozásra várás miatti késés,6.366666666666666
+387,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Más vonat által okozott késés,24.333333333333336
+388,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Pálya állapota miatti késés,66.12034161490683
+389,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Tartózkodási idő túllépése,6.0
+390,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés,68.99470725353078
+391,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,30.042857142857144
+392,A vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Váltó meghibásodás miatti késés,6.375
+393,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik,40.0
+394,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik.,82.66666666666667
+395,"A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül 
+közlekedik.",12.8
+396,"A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül 
+közlekedik.;Társvasúttól átvett késés",16.073529411764707
+397,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Csatlakozásra várás miatti késés,13.045714285714286
+398,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Felsővezetéki hiba miatti késés,41.43564825978619
+399,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés,52.82051282051282
+400,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,21.041666666666668
+401,"A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik.A vonat elején egy kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Társvasúttól átvett késés",6.428571428571429
+402,"A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik.A vonat elején egy kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",7.0
+403,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>A vonat kerekesszékes  és kerékpárszállítására alkalmas kocsi nélkül közlekednek.,18.0
+404,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>A vonat kerekesszékes  és kerékpárszállítására alkalmas kocsi nélkül közlekednek.;Baleset miatti késés,10.81132075471698
+405,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>A vonat kerekesszékes  és kerékpárszállítására alkalmas kocsi nélkül közlekednek.;Vonat műszaki hibája miatti késés,6.891891891891892
+406,"A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>A vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehetők igénybe.",10.0
+407,"A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>A vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehetők igénybe.;>Előreláthatólag 30 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés",41.09090909090909
+408,"A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>A vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehetők igénybe.;>Előreláthatólag 50 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés",45.136986301369866
+409,"A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>A vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehetők igénybe.;Társvasúttól átvett késés",9.0
+410,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>Előreláthatólag 10-15 perc késéssel indul Budapest-Nyugati pályaudvarról.,12.0
+411,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>Előreláthatólag 10-15 perc késéssel indul Budapest-Nyugati pályaudvarról.;Vonat műszaki hibája miatti késés,13.0
+412,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;>Műszaki ok miatt kb. 20-25 perc késéssel indul Budapest-Keleti pályaudvarról.;Vonat műszaki hibája miatti késés,24.0
+413,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;Pálya állapota miatti késés,6.769230769230769
+414,A vonat kerekesszékes és kerékpárszállításra alkalmas kocsi nélkül közlekedik;Vonat műszaki hibája miatti késés,71.30972730972731
+415,"A vonat kerekesszékes és kerékpárszállítására alkalmas kocsi nélkül közlekednek.
+
+",21.333333333333336
+416,"A vonat kerekesszékes és kerékpárszállítására alkalmas kocsi nélkül közlekednek.
+
+;Vonat műszaki hibája miatti késés",12.223529411764705
+417,A vonat kerékpár és kerekesszéke utazásra alkalmas kocsi nélkül közlekedik.,19.5
+418,A vonat kerékpár és kerekesszéke utazásra alkalmas kocsi nélkül közlekedik.;Baleset miatti késés,42.30204081632653
+419,A vonat kerékpár és kerekesszéke utazásra alkalmas kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,7.904761904761905
+420,A vonat kerékpár és kerekesszéke utazásra alkalmas kocsi nélkül közlekedik.;Pálya állapota miatti késés,7.0
+421,A vonat kerékpár és kerekesszéke utazásra alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés,9.333333333333334
+422,A vonat kerékpár és kerekesszéke utazásra alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,6.888888888888889
+423,"A vonat kerékpár és kerekesszékes utazásra alkalmas kocsi nélkül közlekedik.;>A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",6.5
+424,A vonat kerékpár és kerekesszékes utazásra alkalmas kocsi nélkül közlekedik.;Pálya állapota miatti késés,22.29230769230769
+425,A vonat kerékpár és kerekesszékes utazásra alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,7.0
+426,"A vonat kerékpárszállító, és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.",14.333333333333334
+427,"A vonat kerékpárszállító, és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés",21.754901960784313
+428,"A vonat kerékpárszállító, és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Csatlakozásra várás miatti késés",14.841481481481482
+429,"A vonat kerékpárszállító, és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Tartózkodási idő túllépése",12.482758620689655
+430,"A vonat kerékpárszállító, és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés",18.004464285714285
+431,"A vonat kerékpárszállító, és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés",28.772727272727273
+432,A vonat kerülő útirányon keresztül közlekedik Szolnok állomásig.;Csatlakozásra várás miatti késés,12.066666666666666
+433,A vonat kerülő útirányon keresztül közlekedik Szolnok állomástól.;Más vonat által okozott késés,7.0
+434,A vonat kerülő útirányon keresztül közlekedik Szolnok állomástól.;Pálya állapota miatti késés,7.0
+435,"A vonat kerülő útirányon át közlekedik, nem érinti Répcelak állomást.",27.045454545454547
+436,"A vonat kerülő útirányon át közlekedik, nem érinti Répcelak állomást.;Csatlakozásra várás miatti késés",38.05882352941177
+437,A vonat kőbánya-Alsó megállóhelyen is megáll illetve 10 perc késéssel fog indulni .,8.0
+438,A vonat kőbánya-Alsó megállóhelyen is megáll illetve 10 perc késéssel fog indulni .;Csatlakozásra várás miatti késés,15.95890410958904
+439,"A vonat menetrendtől eltérően Rétszilas állomáson megáll, a 34710 számú vonat utasainak elszállítása céljából.;>Utasainknak Sárbogárd állomáson másik szerelvénybe kell átszállniuk.",10.333333333333334
+440,"A vonat menetrendtől eltérően Rétszilas állomáson megáll, a 34710 számú vonat utasainak elszállítása céljából.;>Utasainknak Sárbogárd állomáson másik szerelvénybe kell átszállniuk.;Vonat műszaki hibája miatti késés",15.27659574468085
+441,A vonat menetrendtől eltérően a 13:38-kor indul és minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,18.214285714285715
+442,"A vonat menetrendtől eltérően a 8399 számú vonat állomásain és megállóhelyein megáll.;>A mai napon nem közlekedik, Utasaink a 8309 számú vonattal tudnak utazni mely a 8399 számú vonat megállási helyein megáll.;>Utasainknak Sárbogárd állomáson másik szerelvénybe kell átszállniuk.",9.75
+443,"A vonat menetrendtől eltérően a 8399 számú vonat állomásain és megállóhelyein megáll.;>A mai napon nem közlekedik, Utasaink a 8309 számú vonattal tudnak utazni mely a 8399 számú vonat megállási helyein megáll.;>Utasainknak Sárbogárd állomáson másik szerelvénybe kell átszállniuk.;Csatlakozásra várás miatti késés",10.923076923076923
+444,A vonat menetrendtől eltérően minden állomáson és megállóhelyen megáll.;Tartózkodási idő túllépése,13.457142857142857
+445,A vonat műszaki meghibásodás miatt várakozik Budai út megállóhelyen. Utasaink a 713 sz. NAPFÉNY InterCity vonattal utazhatnak tovább. ;Pálya állapota miatti késés,53.1875
+446,A vonat műszaki meghibásodás miatt várakozik Budai út megállóhelyen. Utasaink a 713 sz. NAPFÉNY InterCity vonattal utazhatnak tovább. ;Vonat műszaki hibája miatti késés,90.10714285714286
+447,"A vonat nem InterCity minőségű kocsikkal közlekedik, a vonaton a bisztrószolgáltatás szünetel.
+Utasaink Nyíregyházától az IC603 számú vonattal tudnak tovább utazni. 16.34-kor Nyíregyházáról 1566 számú mentesítő vonat indul. ;Vonat műszaki hibája miatti késés",62.30232558139535
+448,"A vonat nem InterCity minőségű kocsikkal közlekedik, a vonaton a bisztrószolgáltatás szünetel. Utasainknak Nyíregyháza állomáson másik szerelvénybe kell átszállniuk.  ;Vonat műszaki hibája miatti késés",60.92307692307692
+449,"A vonat nem InterCity minőségű kocsikkal közlekedik, illetve bisztrószakasz, valamint prémium és 1. osztály nélkül közlekedik. Utasainknak Nyíregyháza állomáson másik szerelvénybe kell átszállniuk.  ",55.333333333333336
+450,"A vonat nem InterCity minőségű kocsikkal közlekedik, illetve bisztrószakasz, valamint prémium és 1. osztály nélkül közlekedik. Utasainknak Nyíregyháza állomáson másik szerelvénybe kell átszállniuk.  ;Vonat műszaki hibája miatti késés",58.7
+451,A vonat nem InterCity minőségű kocsikkal közlekedik.,21.0
+452,A vonat nem InterCity minőségű kocsikkal közlekedik. Székesfehérvár állomáson tartózkodik a hatósági intézkedés végéig.;Baleset miatti késés,25.78481012658228
+453,A vonat nem InterCity minőségű kocsikkal közlekedik.;Baleset miatti késés,23.11111111111111
+454,A vonat nem közlekedik.,87.875
+455,"A vonat nem közlekedik.
+",30.90909090909091
+456,A vonat nem továbbít 25-ös számú kocsit.;Pálya állapota miatti késés,9.173913043478262
+457,A vonat nem továbbít 25-ös számú kocsit.;Tartózkodási idő túllépése,6.483870967741935
+458,"A vonat tetemes késése miatt, Nyíregyháza állomásig közlekedik. Nyíregyháza állomásról új szerelvény kerül kiállításra, amely várhatóan menetrend szerint (10:34) indul. ;>Kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül, illetve bisztrószakasz, valamint prémium 1. osztályú kocsi nélkül közlekedik.;Felsővezetéki hiba miatti késés",57.19047619047619
+459,"A vonat tetemes késése miatt, Nyíregyháza állomásig közlekedik. Nyíregyháza állomásról új szerelvény kerül kiállításra, amely várhatóan menetrend szerint (10:34) indul. ;Felsővezetéki hiba miatti késés",59.15625
+460,A vonat utasellátó szolgáltatás közlekedik.;Pálya állapota miatti késés,11.48
+461,A vonat utolsó 2 kocsija lezárva közlekedik.;Társvasúttól átvett késés,8.966101694915254
+462,"A vonat utolsó egysége lezárva közlekedik, utazásra nem vehető igénybe.",22.5
+463,"A vonat utolsó egysége lezárva közlekedik, utazásra nem vehető igénybe.;Más vonat által okozott késés",7.0
+464,"A vonat utolsó egysége lezárva közlekedik, utazásra nem vehető igénybe.;Tartózkodási idő túllépése",7.0
+465,"A vonat utolsó egysége lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",31.095394736842106
+466,"A vonat utolsó hat kocsija lezárva közlekedik, utazásra  nem vehető igénybe;Vonat műszaki hibája miatti késés",8.375
+467,"A vonat utolsó három kocsija lezárva közlekedik, utazásra  nem vehető igénybe;Vonat műszaki hibája miatti késés",15.588235294117647
+468,"A vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",6.0
+469,A vonat utolsó három kocsija lezárva közlekedik.;>Műszaki ok miatt előreláthatóan kb. 30 perc késéssel indul Füzesabony állomásról. ;Pálya állapota miatti késés,38.125
+470,A vonat utolsó három kocsija lezárva közlekedik.;>Műszaki ok miatt előreláthatóan kb. 30 perc késéssel indul Füzesabony állomásról. ;Vonat műszaki hibája miatti késés,48.77272727272727
+471,A vonat utolsó három kocsija lezárva közlekedik.;Pálya állapota miatti késés,13.923076923076923
+472,"A vonat utolsó kettő kocsija  Püspökladány-Budapest-Keleti pályaudvar között lezárva közlekedik, utazásra nem vehető igénybe.",7.0
+473,"A vonat utolsó kettő kocsija  Püspökladány-Budapest-Keleti pályaudvar között lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",16.318840579710145
+474,"A vonat utolsó kettő kocsija  Záhony-Debrecen között lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",6.0
+475,"A vonat utolsó kettő kocsija Debrecen-Püspökladány között lezárva közlekedik, utazásra nem vehető igénybe.;Hatósági intézkedés miatti késés",6.222222222222222
+476,"A vonat utolsó kettő kocsija Debrecen-Püspökladány között lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",6.416666666666667
+477,"A vonat utolsó kettő kocsija Nyíregyháza állomásig lezárva közlekedik, utazásra nem vehető igénybe.",8.615384615384615
+478,"A vonat utolsó kettő kocsija Nyíregyháza állomásig lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",7.606060606060606
+479,"A vonat utolsó kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.",26.0
+480,"A vonat utolsó kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Csatlakozásra várás miatti késés",8.942857142857143
+481,"A vonat utolsó kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",19.034415584415584
+482,"A vonat utolsó kilenc kocsija lezárva közlekedik Nyíregyháza-Miskolc-Tiszai között, utazásra nem vehető igénybe.",7.0
+483,"A vonat utolsó kilenc kocsija lezárva közlekedik Nyíregyháza-Miskolc-Tiszai között, utazásra nem vehető igénybe.;Biztosítóberendezési hiba miatti késés",7.5
+484,A vonat utolsó kocsija csak Miskolc-Tiszai állomásig közlekedik.;Vonat műszaki hibája miatti késés,7.25
+485,"A vonat utolsó kocsija lezárva közlekedik Szombathely állomásig, utazásra nem vehető igénybe. Szombathely állomástól az utolsó kocsi nem közlekedik tovább.",6.5
+486,"A vonat utolsó kocsija lezárva közlekedik Szombathely állomásig, utazásra nem vehető igénybe. Szombathely állomástól az utolsó kocsi nem közlekedik tovább.;Vonat műszaki hibája miatti késés",7.016393442622951
+487,"A vonat utolsó kocsija lezárva közlekedik, amely utazásra nem vehető igénybe.;Időjárási ok miatti késés",8.333333333333334
+488,"A vonat utolsó kocsija lezárva közlekedik, amely utazásra nem vehető igénybe.;Más vonat által okozott késés",7.0
+489,"A vonat utolsó kocsija lezárva közlekedik, amely utazásra nem vehető igénybe.;Pálya állapota miatti késés",9.76
+490,"A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.",50.93556920976276
+491,"A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Biztosítóberendezési hiba miatti késés",24.357142857142858
+492,"A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Csatlakozásra várás miatti késés",15.25925925925926
+493,"A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Más vonat által okozott késés",18.0
+494,"A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",62.06500911369332
+495,"A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pályaépítés miatti késés",12.233333333333333
+496,"A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Társvasúttól átvett késés",33.75623227347365
+497,"A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",72.53584656084657
+498,"A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Váltó meghibásodás miatti késés",6.0
+499,A vonat utolsó kocsija lezárva közlekedik.,6.0
+500,A vonat utolsó kocsija lezárva közlekedik.;Biztosítóberendezési hiba miatti késés,13.2
+501,A vonat utolsó kocsija lezárva közlekedik.;Csatlakozásra várás miatti késés,7.588235294117647
+502,A vonat utolsó kocsija lezárva közlekedik.;Pálya állapota miatti késés,10.227272727272727
+503,A vonat utolsó kocsija lezárva közlekedik.;Tartózkodási idő túllépése,10.555555555555555
+504,A vonat utolsó kocsija lezárva közlekedik.;Vonat műszaki hibája miatti késés,36.81981981981982
+505,A vonat utolsó kocsija műszaki ok miatt lezárva közlekedik.;Pálya állapota miatti késés,13.272727272727273
+506,A vonat utolsó kosija lezárva közlekedik.,7.0
+507,A vonat utolsó kosija lezárva közlekedik.;Pálya állapota miatti késés,19.78181818181818
+508,A vonat utolsó kosija lezárva közlekedik.;Vonat műszaki hibája miatti késés,13.785714285714286
+509,A vonat utolsó négy kocsija csak Szolnok állomásig közlekedik.,12.0
+510,A vonat utolsó négy kocsija csak Szolnok állomásig közlekedik.;Csatlakozásra várás miatti késés,17.6
+511,A vonat utolsó négy kocsija csak Szolnok állomásig közlekedik.;Más vonat által okozott késés,17.333333333333332
+512,"A vonat utolsó négy kocsija lezárva közlekedik, utazásra nem vehető igénybe.",6.0
+513,"A vonat utolsó négy kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Baleset miatti késés",7.823529411764706
+514,"A vonat utolsó négy kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",14.602892102335929
+515,"A vonat utolsó négy kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",9.1875
+516,"A vonat utolsó öt kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Pálya állapota miatti késés",18.304878048780488
+517,"A vonat utolsó öt kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",6.625
+518,A vonat utolsó öt kocsija lezárva közlekedik.,22.8
+519,A vonat utolsó öt kocsija lezárva közlekedik.;Vonat műszaki hibája miatti késés,33.250362844702465
+520,"A vonat végén 1 egység lezárva közlekedik, utazásra nem vehető igénybe. ;Baleset miatti késés",8.4
+521,"A vonat végén 1 kocsi lezárva közlekedik Szolnok és Debrecen viszonylaton, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",7.4375
+522,"A vonat végén 2 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ",10.857142857142858
+523,"A vonat végén 2 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Csatlakozásra várás miatti késés",15.166666666666666
+524,"A vonat végén 2 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Pálya állapota miatti késés",9.818181818181818
+525,"A vonat végén 2 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Tartózkodási idő túllépése",8.588235294117647
+526,"A vonat végén 3 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Pálya állapota miatti késés",6.0
+527,"A vonat végén 3 kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",12.878787878787879
+528,"A vonat végén 4 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ",21.0
+529,"A vonat végén 4 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Biztosítóberendezési hiba miatti késés",12.352941176470589
+530,"A vonat végén 4 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Pálya állapota miatti késés",6.666666666666667
+531,"A vonat végén 4 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Társvasúttól átvett késés",6.5
+532,"A vonat végén 4 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",9.0
+533,"A vonat végén 5 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",8.235294117647058
+534,"A vonat végén 6 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ",6.0
+535,"A vonat végén 7 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ",15.166666666666666
+536,"A vonat végén 7 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Tartózkodási idő túllépése",6.142857142857143
+537,"A vonat végén 7 kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",21.32171893147503
+538,"A vonat végén egy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ",52.06190476190476
+539,"A vonat végén egy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;>Műszaki hiba miatt csak Csincse megállóhelyig közlekedett. Füzesabony felé az 5027 számú vonattal lehet eljutni.",140.0
+540,"A vonat végén egy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;>Műszaki hiba miatt csak Csincse megállóhelyig közlekedett. Füzesabony felé az 5027 számú vonattal lehet eljutni.;Vonat műszaki hibája miatti késés",32.0
+541,"A vonat végén egy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Biztosítóberendezési hiba miatti késés",17.560606060606062
+542,"A vonat végén egy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Hatósági intézkedés miatti késés",17.04
+543,"A vonat végén egy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Pálya állapota miatti késés",131.48400792169645
+544,"A vonat végén egy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Társvasúttól átvett késés",21.61176470588235
+545,"A vonat végén egy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",47.997251374312846
+546,"A vonat végén egy kocsi lezárva közlekedik, utazásra nem vehető igénybe. Kerekesszéket valamint kerékpárt szállító kocsit nem továbbít.",7.666666666666667
+547,"A vonat végén hat kocsi lezárva közlekedik, utazásra nem vehető igénybe. ",10.0
+548,"A vonat végén hat kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Csatlakozásra várás miatti késés",14.78048780487805
+549,"A vonat végén három kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Biztosítóberendezési hiba miatti késés",28.166666666666668
+550,"A vonat végén három kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Pálya állapota miatti késés",20.75816993464052
+551,"A vonat végén három kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",28.25925925925926
+552,"A vonat végén kettő kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Pálya állapota miatti késés",11.041666666666666
+553,"A vonat végén négy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ",7.0
+554,"A vonat végén négy kocsi lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",13.528301886792454
+555,A vonat Ócsa állomásról indul.,6.0
+556,A vonat Ócsa állomásról indul.;Baleset miatti késés,20.5
+557,A vonat Ócsa állomásról indul.;Más vonat által okozott késés,11.0
+558,A vonat Üllő állomásig közlekedik.;Baleset miatti késés,63.30769230769231
+559,A vonaton a bisztrószolgáltatás szünetel.,24.6
+560,"A vonaton a bisztrószolgáltatás szünetel.
+;Vonat műszaki hibája miatti késés",30.07547169811321
+561,A vonaton a bisztrószolgáltatás szünetel.;Tartózkodási idő túllépése,9.894736842105264
+562,A vonaton a bisztrószolgáltatás szünetel.;Vonat műszaki hibája miatti késés,24.70754716981132
+563,A vonatról Miskolc-Tiszai pályaudvaron másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés,8.076923076923077
+564,Abony állomáson is megáll.;Pálya állapota miatti késés,13.717391304347826
+565,Ajkáról előreláthatólag 40 perc késéssel fog indulni.,21.6
+566,Az IC vonattal közlekedő 25 sz. kocsi Szombathely állomásig közlekedik. ,6.0
+567,Az Osztrák vasúti sztrájk miatt a vonat Hegyeshalom állomástól közlekedik.,6.0
+568,Az Osztrák vasúti sztrájk miatt a vonat Hegyeshalom állomástól közlekedik.;>Az Osztrák vasúti sztrájk miatt a vonat csak Hegyeshalom állomástól közlekedik. Budapest-Keleti pályaudvaron másik szerelvénybe kell átszállni. ;>Osztrák vasúti sztrájk miatt a vonat Hegyeshalom állomástól közlekedik. Budapest-Keleti pályaudvaron másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés,12.892857142857142
+569,Az Osztrák vasúti sztrájk miatt a vonat Hegyeshalom állomástól közlekedik.;Biztosítóberendezési hiba miatti késés,12.5
+570,Az Osztrák vasúti sztrájk miatt a vonat Hegyeshalom állomástól közlekedik.;Pálya állapota miatti késés,23.24102564102564
+571,Az Osztrák vasúti sztrájk miatt a vonat Hegyeshalom állomástól közlekedik.;Vonat műszaki hibája miatti késés,6.7
+572,Az Osztrák vasúti sztrájk miatt a vonat Hegyeshalom-Győr állomások között közlekedik.;Más vonat által okozott késés,6.916666666666667
+573,Az Osztrák vasúti sztrájk miatt a vonat csak Hegyeshalom állomástól közlekedik.;Vonat műszaki hibája miatti késés,47.57142857142857
+574,Az Osztrák vasúti sztrájk miatt csak Szentgotthárd állomástól közlekedik.,6.0
+575,Az Osztrák vasúti sztrájk miatt csak Szentgotthárd állomástól közlekedik.;Társvasúttól átvett késés,6.714285714285714
+576,"Az első kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",12.60655737704918
+577,Az osztrák vasúti sztrájk miatt a vonat Hegyeshalom állomástól közlekedik.;Tartózkodási idő túllépése,12.733333333333333
+578,Az osztrák vasúti sztrájk miatt a vonat csak Hegyeshalom állomásig közlekedik. Budapest-Keleti pályaudvaron másik szerelvénybe kell átszállni. ;Pálya állapota miatti késés,11.224489795918368
+579,Az osztrák vasúti sztrájk miatt a vonat csak Hegyeshalom állomásig közlekedik. Budapest-Keleti pályaudvaron másik szerelvénybe kell átszállni. ;Társvasúttól átvett késés,13.549295774647888
+580,Az osztrák vasúti sztrájk miatt a vonat csak Hegyeshalom állomásig közlekedik. Budapest-Keleti pályaudvaron másik szerelvénybe kell átszállni. ;Vonat műszaki hibája miatti késés,12.764705882352942
+581,Az utolsó egység csak Tatabánya állomásig közlekedik.;Pálya állapota miatti késés,6.2
+582,Az utolsó egység csak Tatabánya állomásig közlekedik.;Vonat műszaki hibája miatti késés,6.857142857142857
+583,"Az utolsó hat kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",7.0
+584,"Az utolsó kettő kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",9.75925925925926
+585,"Az utolsó kocsi lezárva közlekedik, amely utazásra nem vehető igénybe.",28.4
+586,"Az utolsó kocsi lezárva közlekedik, amely utazásra nem vehető igénybe.;Biztosítóberendezési hiba miatti késés",6.923076923076923
+587,"Az utolsó kocsi lezárva közlekedik, amely utazásra nem vehető igénybe.;Pálya állapota miatti késés",17.014705882352942
+588,"Az utolsó kocsi lezárva közlekedik, amely utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",11.333333333333334
+589,"Az utolsó kocsi lezárva közlekedik, utazásra nem vehető igénybe.",11.0
+590,"Az utolsó kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",9.238095238095237
+591,"Az utolsó kocsi lezárva közlekedik, utazásra nem vehető igéynbe.;Pálya állapota miatti késés",6.0
+592,Az utolsó kocsi lezárva közlekedik.,10.0
+593,Az utolsó kocsi lezárva közlekedik.;Csatlakozásra várás miatti késés,11.709677419354838
+594,Bajánsenye-Őriszentpéter között vonatpótló autóbusz közeledik.,8.666666666666666
+595,Bajánsenye-Őriszentpéter között vonatpótló autóbusz közeledik.;Vonatpótló busz miatti késés,7.0
+596,Balatonszentgyörgy állomáson másik szerelvénybe kell átszállni.;Biztosítóberendezési hiba miatti késés,6.0
+597,Balatonszentgyörgy állomáson másik szerelvénybe kell átszállni.;Csatlakozásra várás miatti késés,17.533333333333335
+598,Balatonszentgyörgy állomáson másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés,12.090909090909092
+599,Baleset elkerülése érdekében a Ferihegy megállóhelyen leszálló utasok a vonat első 10 kocsijának egyikét vegyék igénybe. ,49.5
+600,Baleset elkerülése érdekében a Ferihegy megállóhelyen leszálló utasok a vonat első 10 kocsijának egyikét vegyék igénybe. ;Pálya állapota miatti késés,64.63834422657952
+601,Baleset elkerülése érdekében a Ferihegy megállóhelyen leszálló utasok a vonat első 10 kocsijának egyikét vegyék igénybe. ;Vonat műszaki hibája miatti késés,61.949494949494955
+602,Baleset miatt  a vonat Monor állomásig minden állomáson és megállóhelyen megáll. A vonat  Bp.-Nyugati pályaudvarról 19:38 indul.,117.91666666666667
+603,Baleset miatt  a vonat Monor állomásig minden állomáson és megállóhelyen megáll. A vonat  Bp.-Nyugati pályaudvarról 19:38 indul.;Más vonat által okozott késés,117.0
+604,Baleset miatt  a vonat Monor állomásig minden állomáson és megállóhelyen megáll. A vonat  Bp.-Nyugati pályaudvarról 19:38 indul.;Vonat műszaki hibája miatti késés,129.91666666666666
+605,Baleset miatt Bp. Kelenföld állomásig közlekedik. Utasok átszállítva a Bp. Déli pályaudvarról menetrend szerint 21:25 órakor induló S10 személyvonatra. A Győrbe utazó utasok részére Komárom állomáson csatlakozás biztosítva lesz a Komáromból menetrend szerint 22:57 órakor induló G10 személyvonatra. ;Baleset miatti késés,124.13846153846154
+606,Baleset miatt Cegléd-Kecskemét között a mai napon nem közlekedik.;Baleset miatti késés,110.13186813186813
+607,Baleset miatt Dombóvár és Godisa között vonatpótló autóbusz közlekedik.,130.83333333333331
+608,Baleset miatt Dombóvár és Godisa között vonatpótló autóbusz közlekedik.;Baleset miatti késés,133.7292663476874
+609,Baleset miatt Dombóvár és Godisa között vonatpótló autóbusz közlekedik.;Csatlakozásra várás miatti késés,34.45454545454545
+610,Baleset miatt Dombóvár és Godisa között vonatpótló autóbusz közlekedik.;Vonat műszaki hibája miatti késés,8.75
+611,Baleset miatt Godisa és Dombóvár között vonatpótló autóbusz közlekedik.,23.77777777777778
+612,Baleset miatt Godisa és Dombóvár között vonatpótló autóbusz közlekedik.;Baleset miatti késés,75.59322033898304
+613,Baleset miatt Godisa és Dombóvár között vonatpótló autóbusz közlekedik.;Csatlakozásra várás miatti késés,37.71875
+614,Baleset miatt Godisa-Dombóvár között vonatpótló autóbusz közlekedik.;Baleset miatti késés,98.80701754385964
+615,Baleset miatt Inárcs-Kakucs állomáson másik vonatra kell átszállni.;Baleset miatti késés,44.266666666666666
+616,Baleset miatt Kőbánya-Kispest állomásig közlekedik. Szerelvénye visszafordul Cegléd állomásra 2868 sz. Z 50 személyvonatnak.;Baleset miatti késés,72.9090909090909
+617,Baleset miatt Kőbánya-Kispest állomásig közlekedik. Szerelvénye visszafordul Monor állomásra 2738 sz. S 50 személyvonatnak.;Baleset miatti késés,38.72727272727273
+618,Baleset miatt Kőbánya-Kispest állomásig közlekedik. Szerelvénye visszafordul Monor állomásra 2738 sz. S 50 személyvonatnak.;Pálya állapota miatti késés,30.25
+619,Baleset miatt Kőbánya-Kispest állomásig közlekedik. Szerelvénye visszafordul Monor állomásra 2748 sz. S 50 személyvonatnak.;Baleset miatti késés,64.5925925925926
+620,Baleset miatt Kőbánya-Kispest állomásról indul.,39.5
+621,"Baleset miatt Kőbánya-Kispest állomásról indul. A vonat utasait az IC 602 számú vonat szállítja ki, amely menetrendtől elérően Kőbánya alsón megáll.",20.958333333333332
+622,"Baleset miatt Kőbánya-Kispest állomásról indul. A vonat utasait az IC 602 számú vonat szállítja ki, amely menetrendtől elérően Kőbánya alsón megáll.;>A vonat csak Táborfalva állomásig közlekedik.",28.53846153846154
+623,"Baleset miatt Kőbánya-Kispest állomásról indul. A vonat utasait az IC 602 számú vonat szállítja ki, amely menetrendtől elérően Kőbánya alsón megáll.;>A vonat csak Táborfalva állomásig közlekedik.;Csatlakozásra várás miatti késés",26.0
+624,Baleset miatt Kőbánya-Kispest állomásról indul. Bp.-Nyugati ból Kőbánya-Kispestre az utasok a Nyíregyháza állomásra közlekedő Nyírség IC-vel utazhatnak. Monor állomástó a vonat tovább közlekedik Szolnok állomásra Z 50 vonatként.  ;Más vonat által okozott késés,39.36363636363637
+625,Baleset miatt Kőbánya-Kispest állomásról indul. Bp.-Nyugatiból Kőbánya-Kispestre az utasok a Nyíregyháza állomásra közlekedő Nyírség IC-vel utazhatnak. ,63.0
+626,Baleset miatt Kőbánya-Kispest állomásról indul. Bp.-Nyugatiból Kőbánya-Kispestre az utasok a Nyíregyháza állomásra közlekedő Nyírség IC-vel utazhatnak. ;Csatlakozásra várás miatti késés,58.642857142857146
+627,Baleset miatt Kőbánya-Kispest állomásról indul. Utasok Bp. Nyugatiból a mai napon 19:08 órakor induló Z 50 személyvonattal utazhatnak Kőbánya-Kispestre.,44.0
+628,Baleset miatt Kőbánya-Kispest állomásról indul. Utasok Bp. Nyugatiból a mai napon 19:08 órakor induló Z 50 személyvonattal utazhatnak Kőbánya-Kispestre.;Baleset miatti késés,45.142857142857146
+629,Baleset miatt Kőbánya-Kispest állomásról indul. Utasok Bp. Nyugatiból a mai napon 19:08 órakor induló Z 50 személyvonattal utazhatnak Kőbánya-Kispestre.;Más vonat által okozott késés,45.25
+630,Baleset miatt Kőbánya-Kispest állomásról indul.;Baleset miatti késés,65.8529411764706
+631,Baleset miatt Kőbánya-Kispest állomásról indul.;Más vonat által okozott késés,43.0
+632,Baleset miatt Monor állomásig a Bp. Nyugatiból menetrend szerint 18:08 órakor induló S 50 2718 sz. vonat menetrendjében közlekedik.,77.5
+633,Baleset miatt Monor állomásig a Bp. Nyugatiból menetrend szerint 18:08 órakor induló S 50 2718 sz. vonat menetrendjében közlekedik.;Csatlakozásra várás miatti késés,76.3
+634,"Baleset miatt Monor állomástól a 2815 számú vonat a 2745 számú vonat menetrendje szerint közlekedik, minden állomáson és megállóhelyen megáll.",11.0
+635,"Baleset miatt Monor állomástól a 2815 számú vonat a 2745 számú vonat menetrendje szerint közlekedik, minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés",14.791666666666666
+636,Baleset miatt Monor állomástól a 2817 számú vonat a 2737 számú vonat menetrendjében közlekedik.,9.5
+637,Baleset miatt Monor állomástól a 2817 számú vonat a 2737 számú vonat menetrendjében közlekedik.;Baleset miatti késés,15.625
+638,Baleset miatt Pécs és Godisa között nem közlekedik. Utasaink a 8051 sz. személyvonattal utazhatnak. ;Baleset miatti késés,53.375
+639,Baleset miatt Székesfehérvár és Várpalota között vonatpótló autóbusz közlekedik.,70.0
+640,Baleset miatt Székesfehérvár és Várpalota között vonatpótló autóbusz közlekedik.;Más vonat által okozott késés,65.09836065573771
+641,Baleset miatt Tatabánya állomásig közlekedik. Katasztrófavédelem segítségével utasok a Tata állomásról menetrend szerint 18:51 órakor induló 313 sz. Mura IC vonatra lesznek átszállítva.,154.0
+642,"Baleset miatt Tócóvölgy-Tiszalök állomások között nem közlekedik. Utasaink a 36658 számú vonattal utazhatnak, mely menetrendtől eltérően Tiszalök állomásig közlekedik.;Baleset miatti késés",80.71428571428571
+643,Baleset miatt Várpalota állomástól új szerelvény közlekedik tovább.;Baleset miatti késés,70.92
+644,Baleset miatt Várpalota és Székesfehérvár között vonatpótló autóbusz közlekedik.;Baleset miatti késés,16.46153846153846
+645,Baleset miatt Várpalota és Székesfehérvár között vonatpótló autóbusz közlekedik.;Pálya állapota miatti késés,17.5
+646,Baleset miatt Várpalota és Székesfehérvár között vonatpótló autóbusz közlekedik.;Társvasúttól átvett késés,9.363636363636363
+647,Baleset miatt Várpalota és Székesfehérvár között vonatpótló autóbusz közlekedik.;Vonat műszaki hibája miatti késés,14.0
+648,Baleset miatt a 2814-es számú vonat 10:08-kor indul és minden állomáson és megállóhelyen megáll.;Pálya állapota miatti késés,24.11111111111111
+649,Baleset miatt a 2814-es számú vonat 10:08-kor indul és minden állomáson és megállóhelyen megáll.;Vonat műszaki hibája miatti késés,14.75
+650,Baleset miatt a mai napon 10:08-kor indul és menetrendtől eltérően minden állomáson és megállóhelyen megáll.,33.72727272727273
+651,Baleset miatt a mai napon 10:08-kor indul és menetrendtől eltérően minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,33.705882352941174
+652,Baleset miatt a mai napon nem közlekedik.,121.49166666666666
+653,Baleset miatt a mai napon nem közlekedik.;Baleset miatti késés,45.70967741935484
+654,Baleset miatt a mai napon nem közlekedik.;Más vonat által okozott késés,32.0
+655,Baleset miatt a vonat  Dombóvár -Sásd állomás között 8066 számú személyvonatként közlekedik.;Baleset miatti késés,23.0
+656,Baleset miatt a vonat  Dombóvár -Sásd állomás között 8066 számú személyvonatként közlekedik.;Társvasúttól átvett késés,21.235294117647058
+657,Baleset miatt a vonat Angyalföld állomástól minden állomáson és megállóhelyen megáll.,6.0
+658,Baleset miatt a vonat Angyalföld állomástól minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,6.0
+659,Baleset miatt a vonat Apafa állomásig közlekedett. Utasaink a katasztrófa védelem segítségével a 6133 számú vonattal utazhatnak tovább.;Baleset miatti késés,65.0952380952381
+660,"Baleset miatt a vonat Biharnagybajom állomástól közlekedik. Püspökladány állomásról Sárrétudvari és Biharnagybajom állomásokra a VOLÁN menetrend szerinti buszjárata igénybe vehető, melyen a vasúti menetjegyek és bérletek elfogadásra kerülnek. ",110.0
+661,"Baleset miatt a vonat Biharnagybajom állomástól közlekedik. Püspökladány állomásról Sárrétudvari és Biharnagybajom állomásokra a VOLÁN menetrend szerinti buszjárata igénybe vehető, melyen a vasúti menetjegyek és bérletek elfogadásra kerülnek. ;Vonat műszaki hibája miatti késés",103.28571428571429
+662,Baleset miatt a vonat Godisa állomásig közlekedik. Godisa-Dombóvár között vonatpótló autóbusz közlekdik.;Baleset miatti késés,75.18181818181819
+663,Baleset miatt a vonat Godisa állomásig közlekedik. Godisa-Dombóvár között vonatpótló autóbusz közlekdik.;Tartózkodási idő túllépése,73.0
+664,Baleset miatt a vonat Godisa állomásig közlekedik.;Tartózkodási idő túllépése,18.444444444444443
+665,"Baleset miatt a vonat Kőbánya-Kispest állomásról indul. A vonat utasait a 2832 számú vonat szállítja ki, amely a mai napon 8:08-kor indul Budapest-Nyugati pályaudvarról.",48.578947368421055
+666,Baleset miatt a vonat Monor állomásig minden állomáson és megállóhelyen megáll. Bp-Nyugati pályaudvarról 20:38-kor  a 2758 sz. vonat idejében közlekedik.,63.5
+667,Baleset miatt a vonat Monor állomásig minden állomáson és megállóhelyen megáll. Bp-Nyugati pályaudvarról 20:38-kor  a 2758 sz. vonat idejében közlekedik.;Más vonat által okozott késés,58.370370370370374
+668,"Baleset miatt a vonat Monor állomástól a 2745 számú vonat menetrendje szerint közlekedik, minden állomáson és megállóhelyen megáll.;Baleset miatti késés",22.0
+669,Baleset miatt a vonat csak Cegléd állomásig közlekedik.;Pálya állapota miatti késés,15.277777777777779
+670,Baleset miatt a vonat csak Fót állomástól közlekedik. A pótlóbusz nem érinti Fótfürdő és Fótújfalu megállóhelyeket.;Társvasúttól átvett késés,7.0
+671,Baleset miatt a vonat csak Fót állomástól közlekedik. A pótlóbusz nem érinti Fótfürdő és Fótújfalu megállóhelyeket.;Vonat műszaki hibája miatti késés,7.0
+672,Baleset miatt a vonat csak Fótújfalu megállóhelyig közlekedett. Fótújfalu és Fót között pótlóbusz közlekedik.;Baleset miatti késés,86.75925925925925
+673,Baleset miatt a vonat csak Inárcs-Kakucs állomástól közlekedik. Pótlóbusz segíti az eljutást Lajosmizse és Kőbánya-Kispest között.;Baleset miatti késés,17.470588235294116
+674,Baleset miatt a vonat helyett Fót és Csomád között pótlóbusz közlekedik.,24.0
+675,Baleset miatt a vonat helyett Fót és Csomád között pótlóbusz közlekedik. A pótlóbusz nem érinti Fótújfalu és Fótfürdő megállóhelyeket.,9.0
+676,Baleset miatt a vonat helyett Fót és Csomád között pótlóbusz közlekedik. A pótlóbusz nem érinti Fótújfalu és Fótfürdő megállóhelyeket.;Baleset miatti késés,20.571428571428573
+677,Baleset miatt a vonat helyett Fót és Csomád között pótlóbusz közlekedik.;Baleset miatti késés,23.333333333333332
+678,Baleset miatt a vonat helyett Inárcs-Kakucs és Dabas között pótlóbusz közlekedik.,9.6
+679,Baleset miatt a vonat helyett Inárcs-Kakucs és Dabas között pótlóbusz közlekedik.;Baleset miatti késés,12.428571428571429
+680,Baleset miatt a vonat helyett Lajosmizse és Inárcs-Kakucs között pótlóbusz közlekedik.;Baleset miatti késés,14.0
+681,Baleset miatt a vonat lemondásra került.;Baleset miatti késés,124.0
+682,Baleset miatt a vonat lemondásra került.;Pálya állapota miatti késés,32.54545454545455
+683,Baleset miatt a vonat utasait a Katasztrófavédelem segítségével másik vonatra szállítják át.;Baleset miatti késés,77.875
+684,Baleset miatt belföldi utasaink Galgahévíz megállóhelytől az IC508 számú vonattal utazhatnak Miskolc-Tiszai állomásig.;Baleset miatti késés,165.89423076923077
+685,Baleset miatt belföldi utasaink Galgahévíz állomástól az IC508 számú vonattal utazhatnak Miskolc-Tiszai állomásig.;Baleset miatti késés,51.214285714285715
+686,Baleset miatt belföldi utasaink Galgahévíz állomástól az IC508 számú vonattal utazhatnak.;Baleset miatti késés,36.0
+687,Baleset miatt csak Hatvan állomásig közlekedett. Miskolc felé az 560 számú TOKAJ InterCity vonattal lehet eljutni.;Baleset miatti késés,57.93939393939394
+688,"Baleset miatt csak Szeges, Rókus vasútállomásig közlekedik.;Baleset miatti késés",29.6
+689,Baleset miatt előreláthatóan kb. 30-40 perc késéssel indul Bp. Keleti pályaudvarról.  ,34.0
+690,Baleset miatt előreláthatóan kb. 30-40 perc késéssel indul Bp. Keleti pályaudvarról.  ;Baleset miatti késés,45.68518518518518
+691,Baleset miatt előreláthatóan kb. 30-40 perc késéssel indul Bp. Keleti pályaudvarról.  ;Csatlakozásra várás miatti késés,58.42857142857143
+692,Baleset miatt előreláthatóan kb. 40 perc késéssel indul Bp. Keleti pályaudvarról.  ,49.25
+693,Baleset miatt előreláthatóan kb. 40 perc késéssel indul Bp. Keleti pályaudvarról.  ;Csatlakozásra várás miatti késés,57.52173913043478
+694,Baleset miatt előreláthatólag a vonat 40 perc késéssel fog indulni.,37.0
+695,Baleset miatt kb. 20 perc késéssel közlekedik.,19.833333333333332
+696,Baleset miatt menetrendtől eltérően Abony állomáson megáll.,7.0
+697,Baleset miatt menetrendtől eltérően Abony állomáson megáll.;Baleset miatti késés,88.94838709677418
+698,Baleset miatt menetrendtől eltérően Abony állomáson megáll.;Pálya állapota miatti késés,15.5
+699,Baleset miatt menetrendtől eltérően Abony állomáson megáll.;Tartózkodási idő túllépése,25.41176470588235
+700,Baleset miatt nem közlekedik.,16.0
+701,Baleset miatt nem közlekedik.;Vonat műszaki hibája miatti késés,9.8
+702,Baleset miatt Üllő állomásig közlekedik. Szerelvénye visszafordul Monorra 2776 sz. S 50 személyvonatnak.;Baleset miatti késés,54.3
+703,"Baleset miatt, Monortól Bp. Nyugati pályaudvarig minden állomáson és megállóhelyen megáll.",12.0
+704,"Baleset miatt, Monortól Bp. Nyugati pályaudvarig minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés",13.0
+705,"Baleset miatt, Monortól Bp. Nyugati pályaudvarig minden állomáson és megállóhelyen megáll.;Tartózkodási idő túllépése",8.6
+706,Baleset miatti a vonat csak Herceghalom állomásig közlekedik.,21.0
+707,Baleset miatti a vonat csak Herceghalom állomásig közlekedik. Utasaink a katasztrófa védelem segítségével az RJX 67 sz. vonattal utazhatnak tovább.,30.285714285714285
+708,Baleset miatti a vonat csak Herceghalom állomásig közlekedik. Utasaink a katasztrófavédelem segítségével az RJX 67 sz. vonattal utazhatnak tovább.,159.53846153846155
+709,Baleset miatti a vonat csak Herceghalom állomásig közlekedik. Utasaink a katasztrófavédelem segítségével az RJX 67 sz. vonattal utazhatnak tovább.;Baleset miatti késés,275.0
+710,Baleset miatti késés,10158.76384419777
+711,Baleset miatti késés.,53.473214285714285
+712,Baleset miatti késés.;>A vonat csak Vecsés-Kertekaljáig közlekedik. Utasaink a 2731 számú S50-as Budapest-Nyugati pályaudvar felé közlekedő vonattal utazhatnak.,91.5945945945946
+713,Baleset miatti késés.;>A vonat csak Vecsés-Kertekaljáig közlekedik. Utasaink a 2731 számú S60-as Budapest-Nyugati pályaudvar felé közlekedő vonattal utazhatnak.,15.0
+714,Biztosítóberendezés meghibásodása miatt csak Isaszeg állomástól közlekedik.,31.333333333333332
+715,Biztosítóberendezés meghibásodása miatt csak Isaszeg állomástól közlekedik.;Vonat műszaki hibája miatti késés,33.38461538461539
+716,Biztosítóberendezési hiba miatt késik a vonat. ,39.0
+717,Biztosítóberendezési hiba miatt késik a vonat. ;>A vonat csak Rákos állomásig közlekedik.;Biztosítóberendezési hiba miatti késés,54.916666666666664
+718,Biztosítóberendezési hiba miatt késik a vonat.;>A vonat Maglód állomásig közlekedik.;Pálya állapota miatti késés,38.35
+719,Biztosítóberendezési hiba miatt késik a vonat.;Biztosítóberendezési hiba miatti késés,122.328125
+720,Biztosítóberendezési hiba miatt késik a vonat.;Más vonat által okozott késés,34.285714285714285
+721,Biztosítóberendezési hiba miatt késik a vonat.;Pálya állapota miatti késés,63.227586206896554
+722,Biztosítóberendezési hiba miatti késés,17600.183620296266
+723,Biztosítóberendezési hiba miatti késés.,52.315384615384616
+724,Biztosítóberendezési hiba miatti késés.;Biztosítóberendezési hiba miatti késés,254.25966386554623
+725,Biztosítóberendezési hiba miatti késés.;Pálya állapota miatti késés,119.97047619047619
+726,Biztosítóberendezési hiba miatti késés.;Társvasúttól átvett késés,26.3
+727,Biztosítóberendezési meghibásodás miatt a vonat Budapest-Kelenföld állomásig közlekedik.;Biztosítóberendezési hiba miatti késés,31.526315789473685
+728,"Biztosítóberendezési meghibásodás miatt a vonat Nagymaros állomásig közlekedik. Utasaink a 276 sz. METROPOLITAN EuroCity vonattal utazhatnak, mely Nagymaros állomáson, Zebegény és Szob alsó megállóhelyeken megáll.",8.333333333333334
+729,"Biztosítóberendezési meghibásodás miatt a vonat Nagymaros állomásig közlekedik. Utasaink a 276 sz. METROPOLITAN EuroCity vonattal utazhatnak, mely Nagymaros állomáson, Zebegény és Szob alsó megállóhelyeken megáll.;Pálya állapota miatti késés",7.565217391304348
+730,"Biztosítóberendezési meghibásodás miatt a vonat Nagymaros állomásról indul. Utasaink Szob és Nagymaros között a 271 sz. METROPOLITAN EuroCity vonattal utazhatnak, mely Szob alsó és Zebegény megállóhelyeken és Nagymaros állomáson is megáll.;Biztosítóberendezési hiba miatti késés",20.15
+731,Biztosítóberendezési meghibásodása miatt a vonat késéssel fog közlekedni.;Biztosítóberendezési hiba miatti késés,47.0
+732,"Budapest-Kelenföldtől közlekedik, utasok a Bp. Déliből 6:00 órakor induló Bakony IC vonattal tudnak utazni. ",12.0
+733,"Budapest-Kelenföldtől közlekedik, utasok a Bp. Déliből 6:00 órakor induló Bakony IC vonattal tudnak utazni. ;Vonat műszaki hibája miatti késés",28.572727272727274
+734,"Budapest-Keleti és Miskolc-Tiszai között nem továbbít 20-as számú, kerékpárszállításra és kerekesszékes utazásra alkalmas kocsit.",9.0
+735,"Budapest-Keleti és Miskolc-Tiszai között nem továbbít 20-as számú, kerékpárszállításra és kerekesszékes utazásra alkalmas kocsit.;Vonat műszaki hibája miatti késés",11.853658536585366
+736,Békéscsaba állomás előtt történt baleset miatt a vonat utasait a Katasztrófavédelem segítségével a 473 számú ISTER InterCity vonatra szállítják át.;Baleset miatti késés,93.28947368421052
+737,Cegléd állomáson másik szerelvénybe kell átszállni.;Más vonat által okozott késés,7.333333333333333
+738,Cegléd állomáson másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés,18.595744680851062
+739,Csatlakozásra várás miatti késés,20088.06706314665
+740,Csatlakozásra várás miatti késés.,37.25
+741,Csatlakozásra várás miatti késés.;Csatlakozásra várás miatti késés,51.71111111111111
+742,"Debrecen-Nyíregyháza állomások között nem közlekedik, Utasaink a 6102 számú vonattal utazhatnak Nyíregyháza állomásig.Nyíregyháza-Budapest-Keleti pályaudvar között nem InterCity minőségű kocsikkal közlekedik, emiatt a vonaton a bisztrószolgáltatás szünetel.;Vonat műszaki hibája miatti késés",71.74
+743,Diósjenő állomáson másik szerelvénybe kell átszállni.,6.0
+744,Diósjenő állomáson másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés,9.4375
+745,Dombóvár állomásig minden állomáson és megállóhelyen  megáll.;Csatlakozásra várás miatti késés,33.5
+746,Dombóvár állomásig minden állomáson és megállóhelyen  megáll.;Vonat műszaki hibája miatti késés,42.23255813953488
+747,Eger állomásról előreláthatólag 15 perc késéssel fog indulni.,12.0
+748,Egervár-Vasboldogasszony-Zalaszentiván állomások között vonatpótló autóbusz közlekedik.,22.0
+749,Egervár-Vasboldogasszony-Zalaszentiván állomások között vonatpótló autóbusz közlekedik.;Pályaépítés miatti késés,34.94736842105263
+750,Egervár-Vasboldogasszony-Zalaszentiván állomások között vonatpótló autóbusz közlekedik.;Vonatpótló busz miatti késés,37.06060606060606
+751,Egervár-Zalaszentiván állomások között vonatpótló autóbuszok közlekednek.,19.571428571428573
+752,Egervár-Zalaszentiván állomások között vonatpótló autóbuszok közlekednek.;Pályaépítés miatti késés,13.597826086956522
+753,Előreláthatóan kb. 130 perc késéssel érkezik Hegyeshalom határállomásra.,131.0
+754,Előreláthatóan kb. 130 perc késéssel érkezik Hegyeshalom határállomásra.;Társvasúttól átvett késés,128.33333333333334
+755,Előreláthatóan kb. 15 perc késéssel érkezik Hegyeshalom határállomásra.;Társvasúttól átvett késés,11.571428571428571
+756,Előreláthatóan kb. 20 perc késéssel érkezik Hegyeshalom határállomásra.;Társvasúttól átvett késés,21.571428571428573
+757,Előreláthatóan kb. 20 perc késéssel érkezik Lőkösháza határállomásra.,30.0
+758,Előreláthatóan kb. 20 perc késéssel érkezik Lőkösháza határállomásra.;Társvasúttól átvett késés,16.53061224489796
+759,Előreláthatóan kb. 30 perc késéssel érkezik Lőkösháza határállomásra.;Társvasúttól átvett késés,32.52325581395349
+760,Előreláthatóan kb. 60 perc késéssel érkezik Lőkösháza határállomásra.,67.75
+761,Előreláthatóan kb. 60 perc késéssel érkezik Lőkösháza határállomásra.;Társvasúttól átvett késés,62.275510204081634
+762,Előreláthatólag  a vonat 40-50 perc késéssel fog érkezni Szob állomásra.;Társvasúttól átvett késés,46.2
+763,Előreláthatólag  műszaki hiba miatt a vonat 30 perc késéssel fog közlekedni.;Vonat műszaki hibája miatti késés,30.51685393258427
+764,Előreláthatólag 10 perc késéssel fog indulni.,7.0
+765,Előreláthatólag 10-15 perc késéssel fog indulni.,14.0
+766,Előreláthatólag 100 perc késéssel fog indulni.,28.0
+767,Előreláthatólag 100 perc késéssel fog indulni.;Csatlakozásra várás miatti késés,63.73529411764706
+768,Előreláthatólag 15 perc késéssel fog indulni.,17.0
+769,Előreláthatólag 15 perc késéssel indul Tapolca állomásról.,14.0
+770,Előreláthatólag 15 perc késéssel indul Tapolca állomásról.;Vonat műszaki hibája miatti késés,13.333333333333334
+771,Előreláthatólag 15 perc késéssesl fog indulni,10.0
+772,Előreláthatólag 15 perc késéssesl fog indulni;Vonat műszaki hibája miatti késés,17.674418604651162
+773,Előreláthatólag 20 perc késéssel fog indulni Lőkösháza állomásról. ,20.923076923076923
+774,Előreláthatólag 20 perc késéssel közlekedik.,43.0
+775,Előreláthatólag 20 perc késéssel közlekedik.;Társvasúttól átvett késés,10.814814814814815
+776,Előreláthatólag 20 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,44.0
+777,Előreláthatólag 20-30 perc késéssel indul Budapest-Nyugati pályaudvarról.;Társvasúttól átvett késés,14.0
+778,Előreláthatólag 25 perc késéssel fog indulni.,25.0
+779,Előreláthatólag 25 perc késéssel fog tovább közlekedni Szárliget állomástól.;Tartózkodási idő túllépése,23.714285714285715
+780,Előreláthatólag 25 perc késéssel fog tovább közlekedni Szárliget állomástól.;Váltó meghibásodás miatti késés,23.0
+781,Előreláthatólag 30 perc késéssel fog indulni Bakonyszentlászlóról.,19.714285714285715
+782,Előreláthatólag 30 perc késéssel fog indulni.,44.0
+783,Előreláthatólag 30 perc késéssel fog indulni.;Forgalmi ok miatti késés,46.333333333333336
+784,Előreláthatólag 30 perc késéssel fog érkezni Szob állomásra.;Társvasúttól átvett késés,26.0
+785,Előreláthatólag 30 perc késéssel indul Keleti pályaudvarról.;>A vonat  18-as és 19-es számú 1.osztályú kocsi illetve bisztró kocsi nélkül közlekedik.,48.0
+786,Előreláthatólag 30 perc késéssel indul Keleti pályaudvarról.;>A vonat  18-as és 19-es számú 1.osztályú kocsi illetve bisztró kocsi nélkül közlekedik.;Váltó meghibásodás miatti késés,49.285714285714285
+787,Előreláthatólag 30 perc késéssel érkezik Hegyeshalom határállomásra.;Társvasúttól átvett késés,32.714285714285715
+788,Előreláthatólag 40-50 perc késéssel fog indulni.;Baleset miatti késés,47.0
+789,Előreláthatólag 60 perc késéssel érkezik Szob határállomásra.;Társvasúttól átvett késés,54.0
+790,Előreláthatólag 60-80 perc késéssel fog közlekedni.,218.8
+791,Előreláthatólag 60-80 perc késéssel fog közlekedni.;>Zirc és Veszprém állomások között vonatpótló autóbusz közlekedik.;Vonat műszaki hibája miatti késés,130.92307692307693
+792,Előreláthatólag 60-80 perc késéssel fog közlekedni.;Más vonat által okozott késés,56.8421052631579
+793,Előreláthatólag 60-80 perc késéssel fog közlekedni.;Vonat műszaki hibája miatti késés,83.83720930232558
+794,Előreláthatólag 70 perc késéssel fog indulni Zalaszentiván állomásról.,20.7
+795,Előreláthatólag 70 perc késéssel fog indulni Zalaszentiván állomásról.;Társvasúttól átvett késés,54.40909090909091
+796,Előreláthatólag 80 perc késéssel érkezik Szob határállomásra.;Társvasúttól átvett késés,87.06666666666666
+797,Előreláthatólag 90 perc késéssel érkezik Szob határállomásra.;Társvasúttól átvett késés,94.0
+798,Előreláthatólag a vonat 10 perc késéssel fog indulni.,9.0
+799,Előreláthatólag a vonat 10-15 perc késéssel fog indulni.,10.0
+800,Előreláthatólag a vonat 10-15 perc késéssel fog indulni.;Baleset miatti késés,9.5
+801,Előreláthatólag a vonat 10-20 perc késéssel fog indulni Budapest-Kelenföld állomásról.,12.428571428571429
+802,Előreláthatólag a vonat 10-20 perc késéssel fog indulni Budapest-Kelenföld állomásról.;Csatlakozásra várás miatti késés,18.333333333333332
+803,Előreláthatólag a vonat 30 perc késéssel fog indulni.,20.6
+804,Előreláthatólag a vonat 30 perc késéssel fog indulni.;Vonat műszaki hibája miatti késés,20.0
+805,Előreláthatólag a vonat 40 perc késéssel fog indulni.,38.666666666666664
+806,Előreláthatólag a vonat 40 perc késéssel fog indulni.;Más vonat által okozott késés,41.8
+807,Előreláthatólag a vonat 45 perc késéssel fog közlekedni.,42.0
+808,Előreláthatólag a vonat 45 perc késéssel fog közlekedni.;Vonat műszaki hibája miatti késés,45.77272727272727
+809,Előreláthatólag a vonat Mezőkövesd állomástól 30 perc késéssel fog indulni.;Pálya állapota miatti késés,6.0
+810,Előreláthatólag a vonat Mezőkövesd állomástól 30 perc késéssel fog indulni.;Vonat műszaki hibája miatti késés,42.0
+811,Felsővezetk meghibásodás miatt nem közlekedik.,15.857142857142858
+812,Felsővezetk meghibásodás miatt nem közlekedik.;Felsővezetéki hiba miatti késés,32.0
+813,Felsővezetk meghibásodás miatt nem közlekedik.;Pálya állapota miatti késés,6.0
+814,Felsővezeték meghibásodás miatt Angyalföld állomásról indul.,6.0
+815,Felsővezeték meghibásodás miatt Angyalföld állomásról indul.;Csatlakozásra várás miatti késés,6.0
+816,Felsővezeték meghibásodás miatt Angyalföld állomásról indul.;Vonat műszaki hibája miatti késés,6.5
+817,Felsővezeték meghibásodás miatt Pécel állomásig közlekedik.;Pálya állapota miatti késés,8.5
+818,Felsővezeték meghibásodás miatt Pécel állomástól közlekedik.;Pálya állapota miatti késés,23.0
+819,Felsővezeték meghibásodás miatt Pécel állomástól közlekedik.;Vonat műszaki hibája miatti késés,17.166666666666668
+820,Felsővezeték meghibásodás miatt Rákoshegy állomásig közlekedik.,7.166666666666667
+821,Felsővezeték meghibásodás miatt Rákoshegy állomásig közlekedik.;Csatlakozásra várás miatti késés,58.333333333333336
+822,Felsővezeték meghibásodás miatt Rákoshegy állomásig közlekedik.;Felsővezetéki hiba miatti késés,99.42857142857143
+823,Felsővezeték meghibásodás miatt Rákoshegy állomástól közlekedik.,66.5
+824,Felsővezeték meghibásodás miatt Rákoshegy állomástól közlekedik.;Csatlakozásra várás miatti késés,32.0
+825,Felsővezeték meghibásodás miatt Rákoshegy állomástól közlekedik.;Felsővezetéki hiba miatti késés,66.90243902439025
+826,Felsővezeték meghibásodás miatt Sülysáp állomásig közlekedik.;Csatlakozásra várás miatti késés,24.0
+827,Felsővezeték meghibásodás miatt kerülő útirányon Cegléden át közlekedik.,6.0
+828,Felsővezeték meghibásodás miatt kerülő útirányon Cegléden át közlekedik.;>Műszaki ok miatt InterCity minőségű kocsik nélkül közlekedik.;Felsővezetéki hiba miatti késés,20.0
+829,Felsővezeték meghibásodás miatt kerülő útirányon Cegléden át közlekedik.;>Műszaki ok miatt InterCity minőségű kocsik nélkül közlekedik.;Vonat műszaki hibája miatti késés,20.88888888888889
+830,Felsővezeték meghibásodás miatt kerülő útirányon Cegléden át közlekedik.;Pálya állapota miatti késés,8.0
+831,Felsővezeték meghibásodás miatt kerülő útirányon Cegléden át közlekedik.;Vonat műszaki hibája miatti késés,14.0
+832,Felsővezeték meghibásodás miatt nem közlekedik.;Felsővezetéki hiba miatti késés,44.875
+833,Felsővezeték meghibásodás miatt nem közlekedik.;Pálya állapota miatti késés,7.5
+834,"Felsővezeték meghibásodás miatt, kerülő útirányon Cegléden át közlekedik.;Hatósági intézkedés miatti késés",36.30434782608695
+835,Felsővezeték meghibásodása,56.275
+836,"Felsővezetéki hiba miatt csak Rákosligetig közlekedett. Gödöllő felé az 544 számú AGRIA IR vonattal lehet eljutni, amely Rákosliget és Gödöllő között minden állomáson és megállóhelyen megáll.;Felsővezetéki hiba miatti késés",57.0
+837,Felsővezetéki hiba miatt kb. 55 perc késéssel indul Bp. Keleti pályaudvarról.,61.125
+838,Felsővezetéki hiba miatt késik a vonat.,22.5
+839,Felsővezetéki hiba miatt késik a vonat. ,71.0
+840,Felsővezetéki hiba miatt késik a vonat. ;Felsővezetéki hiba miatti késés,74.14285714285714
+841,Felsővezetéki hiba miatt késik a vonat. A vonat csak Rákosrendező állomásig közlekedik.,16.0
+842,Felsővezetéki hiba miatt késik a vonat. A vonat csak Rákosrendező állomásig közlekedik.;Vonat műszaki hibája miatti késés,25.0
+843,Felsővezetéki hiba miatt késik a vonat.;>A vonat Rákospalota-Újpest állomásig közlekedik.,98.25
+844,Felsővezetéki hiba miatt késik a vonat.;>A vonat Rákospalota-Újpest állomásig közlekedik.;Felsővezetéki hiba miatti késés,81.0
+845,Felsővezetéki hiba miatt késik a vonat.;Felsővezetéki hiba miatti késés,49.689655172413794
+846,Felsővezetéki hiba miatti késés,3293.5250149933386
+847,Ferihegy megállóhelyen a biztonságos fel- és leszállás érdekében a vonat első 10 kocsijának egyikét vegyék igénybe.,29.5
+848,Ferihegy megállóhelyen a biztonságos fel- és leszállás érdekében a vonat első 10 kocsijának egyikét vegyék igénybe.;Pálya állapota miatti késés,40.51953601953602
+849,Ferihegy megállóhelyen a biztonságos fel- és leszállás érdekében a vonat első 10 kocsijának egyikét vegyék igénybe.;Tartózkodási idő túllépése,11.636363636363637
+850,Ferihegy megállóhelyen a biztonságos fel- és leszállás érdekében a vonat első 10 kocsijának egyikét vegyék igénybe.;Társvasúttól átvett késés,50.0
+851,Ferihegy megállóhelyen a biztonságos fel- és leszállás érdekében a vonat első 10 kocsijának egyikét vegyék igénybe.;Vonat műszaki hibája miatti késés,31.43297675082014
+852,Ferihegy megállóhelyen a biztonságos le- és felszállás érdekében a le- és felszálláshoz a vonat első 10 kocsijának egyikét vegyék igénybe,16.0
+853,Ferihegy megállóhelyen a biztonságos le- és felszállás érdekében a le- és felszálláshoz a vonat első 10 kocsijának egyikét vegyék igénybe;>Műszaki ok miatt az 22 és a 23 sz. kocsi nem IC minőségű.;Pálya állapota miatti késés,10.142857142857142
+854,Ferihegy megállóhelyen a biztonságos le- és felszállás érdekében a le- és felszálláshoz a vonat első 10 kocsijának egyikét vegyék igénybe;Pálya állapota miatti késés,10.445945945945946
+855,Forgalmi ok miatti késés,931.1425109421034
+856,Füzesabony állomásról előreláthatólag 30-40 perc késéssel fog indulni.;Pálya állapota miatti késés,21.428571428571427
+857,Füzesabony állomásról előreláthatólag 30-40 perc késéssel fog indulni.;Vonat műszaki hibája miatti késés,28.0
+858,Füzesabony és Vámosgyörk között minden állomáson és megállóhelyen megáll.,19.0
+859,Füzesabony és Vámosgyörk között minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,16.05263157894737
+860,Füzesabony és Vámosgyörk között minden állomáson és megállóhelyen megáll.;Pálya állapota miatti késés,13.764705882352942
+861,Füzesabony és Vámosgyörk között minden állomáson és megállóhelyen megáll.;Vonat műszaki hibája miatti késés,32.0625
+862,Győr és Csorna között a vonat helyett pótlóbusz közlekedik.,80.55087719298245
+863,Győr és Csorna között a vonat helyett pótlóbusz közlekedik.;Forgalmi ok miatti késés,33.054054054054056
+864,Győr és Csorna között a vonat helyett pótlóbusz közlekedik.;Más vonat által okozott késés,47.0
+865,Gödöllő állomásig a vonat minden állomáson és megállóhelyen megáll. ;Csatlakozásra várás miatti késés,12.483870967741936
+866,Gödöllő állomásig a vonat minden állomáson és megállóhelyen megáll. ;Pálya állapota miatti késés,14.642857142857142
+867,Gödöllő állomásig a vonat minden állomáson és megállóhelyen megáll. ;Tartózkodási idő túllépése,7.75
+868,Gödöllőtől minden állomáson és megállóhelyen megáll.;Felsővezetéki hiba miatti késés,26.0
+869,Gödöllőtől minden állomáson és megállóhelyen megáll.;Vonat műszaki hibája miatti késés,19.933333333333334
+870,Hatósági intézkedés miatt a vonat Cegléd állomástól előreláthatólag 20-25 perc késéssel közlekedik tovább.,17.0
+871,Hatósági intézkedés miatt a vonat Cegléd állomástól előreláthatólag 20-25 perc késéssel közlekedik tovább.;Hatósági intézkedés miatti késés,21.0
+872,Hatósági intézkedés miatt a vonat előreláthatólag 40-60 perc késéssel érkezik Hegyeshalom határállomásra.,61.0
+873,Hatósági intézkedés miatt előreláthatóan kb. 30 perc késéssel közlekedik.,32.5
+874,Hatósági intézkedés miatt előreláthatóan kb. 30 perc késéssel közlekedik.;Rongálás miatti késés,32.84615384615385
+875,Hatósági intézkedés miatt előreláthatóan kb. 60 perc késéssel közlekedik.,30.2
+876,Hatósági intézkedés miatti késés,1720.2173856710192
+877,Hegyeshalom állomásról előreláthatólag 40 perc késéssel indul tovább.,32.0
+878,Hévízgyörk és Galgahévíz megállóhelyeken is megáll.;Pálya állapota miatti késés,11.514285714285714
+879,Időjárási ok miatti késés,1320.42765402553
+880,InterCity minőségű kocsik nélkül közlekedik.,23.0
+881,InterCity minőségű kocsik nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,21.4
+882,InterCity minőségű kocsik nélkül közlekedik.;Pálya állapota miatti késés,40.12037037037037
+883,InterCity minőségű kocsik nélkül közlekedik.;Tartózkodási idő túllépése,16.384615384615383
+884,Inárcs-Kakucs állomástól a 2933-as számú vonattal összezárva közlekedik.,9.0
+885,Inárcs-Kakucs állomástól a 2933-as számú vonattal összezárva közlekedik.;Csatlakozásra várás miatti késés,29.91891891891892
+886,Inárcs-Kakucs állomástól a 2933-as számú vonattal összezárva közlekedik.;Vasútüzemen kívülálló ok miatti késés,10.0
+887,Inárcs-Kakucs állomástól a 2943-as számú vonattal összezárva közlekedik.;Vasútüzemen kívülálló ok miatti késés,59.0
+888,Járműhiba miatt a vonat csak csökkentett sebességgel közlekedhet.;Vonat műszaki hibája miatti késés,19.6
+889,"Járműhiba miatt a vonat helyett pótlóbusz közlekedik, amely előreláthatólag 7:00-kor fog tudni indulni Szentesről.",45.63636363636363
+890,Jászkísér felső - Szolnok között vonatpótló autóbusz közlekedik.;Pálya állapota miatti késés,76.78571428571429
+891,Kaposvár-Lengyeltóti között vonatpótló autóbusz közlekedik.,56.666666666666664
+892,Kaposvár-Lengyeltóti között vonatpótló autóbusz közlekedik.;Vonat műszaki hibája miatti késés,55.892857142857146
+893,Kerékpár és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.,23.0
+894,Kerékpár és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,24.427272727272726
+895,Kerékpár és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Tartózkodási idő túllépése,29.29644906743185
+896,Kerékpár és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés,7.714285714285714
+897,Kerékpár és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,20.11904761904762
+898,Kerékpárszállítás és kerekesszékes utazásra alkalmas kocsi nélkül közlekedik.,13.0
+899,Kerékpárszállítás és kerekesszékes utazásra alkalmas kocsi nélkül közlekedik.;Tartózkodási idő túllépése,12.0
+900,Kerékpárszállítás és kerekesszékes utazásra alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés,7.52
+901,"Kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül, illetve bisztrószakasz, valamint prémium 1. osztályú kocsi nélkül közlekedik.;>Nyíregyháza állomáson másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés",13.724137931034482
+902,Lőkösháza állomásról előreláthatólag 50 perc késéssel indul.;Társvasúttól átvett késés,46.92857142857143
+903,Lőkösháza állomástól előreláthatólag 45 perc késéssel indul tovább.,31.0
+904,Lőkösháza állomástól előreláthatólag 45 perc késéssel indul tovább.;Társvasúttól átvett késés,38.666666666666664
+905,Menetrendtől eltérően Budapest-Kelenföld-Martonvásár között minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,10.0
+906,Menetrendtől eltérően Budapest-Kelenföld-Martonvásár között minden állomáson és megállóhelyen megáll.;Pálya állapota miatti késés,8.5
+907,Menetrendtől eltérően Füzesabony-Miskolc-Tiszai állomások között minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,12.590909090909092
+908,Menetrendtől eltérően Galgahévíz megállóhelyen is megáll.;Baleset miatti késés,26.605263157894736
+909,Menetrendtől eltérően Galgahévíz megállóhelyen is megáll.;Más vonat által okozott késés,16.3
+910,Menetrendtől eltérően Kőbánya alsón megáll.;Pálya állapota miatti késés,26.379320007472444
+911,Menetrendtől eltérően Magdolnavölgy megállóhelyen és Rákosrendező állomáson megáll.,7.0
+912,Menetrendtől eltérően Magdolnavölgy megállóhelyen és Rákosrendező állomáson megáll.;Csatlakozásra várás miatti késés,7.448275862068965
+913,Menetrendtől eltérően a vonat Angyalföld állomáson is megáll.;Pálya állapota miatti késés,9.727272727272727
+914,Menetrendtől eltérően a vonat Angyalföld állomáson is megáll.;Tartózkodási idő túllépése,8.0
+915,Menetrendtől eltérően a vonat Rákosrendező állomáson is megáll.,12.0
+916,Menetrendtől eltérően a vonat Rákosrendező állomáson is megáll.;Más vonat által okozott késés,14.0
+917,Menetrendtől eltérően a vonat Rákosrendező állomáson is megáll.;Pálya állapota miatti késés,33.04347826086956
+918,Menetrendtől eltérően a vonat Rákosrendező állomáson is megáll.;Vonat műszaki hibája miatti késés,22.416666666666668
+919,Mentőre várás miatti késés.,12.0
+920,Mentőre várás miatti késés.;>A tetemes késés csökkentése érdekében csak Tatabánya állomásig közlekedik. ;Vasútüzemen kívülálló ok miatti késés,60.65625
+921,Mentőre várás miatti késés.;Pálya állapota miatti késés,17.083333333333332
+922,Mentőre várás miatti késés.;Vasútüzemen kívülálló ok miatti késés,69.18285714285715
+923,Miskolc Tiszai és Füzesabony között minden  állomáson és megállóhelyen megáll.;Pálya állapota miatti késés,27.333333333333332
+924,Miskolc-Tiszai állomásig a vonat utolsó kocsija lezárva közlekedik.;Vonat műszaki hibája miatti késés,6.0
+925,Miskolc-Tiszai állomáson a Sátoraljaújhely felé utazóknak (IC 522)  másik szerelvénybe kell átszállni.,7.8
+926,Miskolc-Tiszai állomáson a Sátoraljaújhely felé utazóknak (IC 522)  másik szerelvénybe kell átszállni.;Felsővezetéki hiba miatti késés,19.775862068965516
+927,Miskolc-Tiszai állomáson a Sátoraljaújhely felé utazóknak (IC 522)  másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés,12.875
+928,Miskolc-Tiszai állomáson másik szerelvénybe kell átszállni.,22.0
+929,Miskolc-Tiszai állomáson másik szerelvénybe kell átszállni.;Baleset miatti késés,6.0
+930,Miskolc-Tiszai állomáson másik szerelvénybe kell átszállni.;Pálya állapota miatti késés,27.191176470588236
+931,"Monor állomástól a 2749 sz. személyvonat menetrendje szerint közlekedik, annak megállási helyein is megáll.;Tartózkodási idő túllépése",6.0
+932,Más vonat meghibásodása miatt kb. 40 perc késéssel közlekedik tovább.;Más vonat által okozott késés,33.583333333333336
+933,Más vonat műszaki hibája miatt előreláthatóan kb. 20-30 perc késéssel küzlekedik.,33.4375
+934,Más vonat által okozott késés,12964.11208632039
+935,Más vonattól átvett késés,43.25821812596006
+936,Műszaki hiba miatt Pannonhalma állomástól előreláthatólag 50 perc késéssel közlekedik tovább.,48.0
+937,Műszaki hiba miatt Pannonhalma állomástól előreláthatólag 50 perc késéssel közlekedik tovább.;Vonat műszaki hibája miatti késés,47.55813953488372
+938,Műszaki hiba miatt Pannonhalma és Bakonyszentlászló között nem közlekedik. ;Vonat műszaki hibája miatti késés,32.0
+939,Műszaki hiba miatt a kerékpárszállítás és kerekesszékes utazás nem biztosított.;Pálya állapota miatti késés,6.318181818181818
+940,Műszaki hiba miatt a kerékpárszállítás és kerekesszékes utazás nem biztosított.;Tartózkodási idő túllépése,6.0
+941,Műszaki hiba miatt a vonat előreláthatólag  20-30 perc késéssel fog közlekedni.;Pálya állapota miatti késés,22.0
+942,Műszaki hiba miatt a vonat előreláthatólag  20-30 perc késéssel fog közlekedni.;Vonat műszaki hibája miatti késés,23.544303797468356
+943,"Műszaki hiba miatt a vonatot Szolnok állomásra visszahúzzák, Utasainknak másik szerelvénybe kell átszállniuk. A vonat előreláthatólag 30-40 perc késéssel fog indulni.",70.5
+944,"Műszaki hiba miatt a vonatot Szolnok állomásra visszahúzzák, Utasainknak másik szerelvénybe kell átszállniuk. A vonat előreláthatólag 30-40 perc késéssel fog indulni.;Társvasúttól átvett késés",61.0
+945,"Műszaki hiba miatt a vonatot Szolnok állomásra visszahúzzák, Utasainknak másik szerelvénybe kell átszállniuk. A vonat előreláthatólag 30-40 perc késéssel fog indulni.;Vonat műszaki hibája miatti késés",66.65853658536585
+946,Műszaki hiba miatt csak Cegléd állomásig közlekedik.;Vonat műszaki hibája miatti késés,66.37837837837837
+947,Műszaki hiba miatt csak Füzesgyarmatig közlekedett.;Vonat műszaki hibája miatti késés,51.75
+948,"Műszaki hiba miatt csak Győr állomástól közlekedik. Keleti pályaudvar és Győr között a 9308 számú G10-es vonattal lehet utazni, amelyről az átszállás biztosított.;Csatlakozásra várás miatti késés",52.36363636363637
+949,Műszaki hiba miatt csak Rákoshegyig közlekedett. Keleti pályaudvar felé a 3669 számú S60-as vonattal lehet eljutni.;Vonat műszaki hibája miatti késés,45.904761904761905
+950,Műszaki hiba miatt előreláthatólag 25 perc késéssel közlekedik.;Társvasúttól átvett késés,41.733333333333334
+951,Műszaki hiba miatt előreláthatólag 30 perc késéssel fog indulni.,32.833333333333336
+952,Műszaki hiba miatt előreláthatólag 40 perc késéssel fog indulni.,22.4
+953,"Műszaki hiba miatt nem közlekedik. Vámosgyörk felé AGRIA InterRégió vonattal lehet eljutni, amely a menetrendtől eltérően Füzesabony és Vámosgyörk között minden állomáson és megállóhelyen megáll.;Vonat műszaki hibája miatti késés",76.0
+954,Műszaki hiba miatt nem közlekedik.;Vonat műszaki hibája miatti késés,36.0
+955,"Műszaki hiba miatt Öttevény állomásig közlekedik. Utasaink az RJX264 számú vonattal tudnak tovább utazni, amely Hegyeshalomig a személyvonat megállási helyein is megáll.",26.8
+956,"Műszaki hiba mitt a vonat, a mai napon Kerepes és Gödöllő között nem közlekedik",17.0
+957,Műszaki meghibásodás miatt Fényeslitke és Debrecen között nem közlekedik.;Vonat műszaki hibája miatti késés,66.31818181818181
+958,Műszaki meghibásodás miatt Fényeslitkéig közlekedett. Utasaink a 6231 sz. vonattal utazhatnak.;Pálya állapota miatti késés,30.0
+959,Műszaki meghibásodás miatt Fényeslitkéig közlekedett. Utasaink a 6231 sz. vonattal utazhatnak.;Vonat műszaki hibája miatti késés,40.111111111111114
+960,"Műszaki meghibásodás miatt Szolnok - Cegléd között nem közlekedik. Utasaink az IC615 sz. vonattal utazhatnak, amely Abony állomáson is megáll.",77.0
+961,"Műszaki meghibásodás miatt Szolnok - Cegléd között nem közlekedik. Utasaink az IC615 sz. vonattal utazhatnak, amely Abony állomáson is megáll.;Vonat műszaki hibája miatti késés",75.82758620689656
+962,Műszaki meghibásodás miatt a vonat Nyírgelse és Fehérgyarmat között nem közlekedik. Utasaink a 6318 sz. személyvonattal utazhatnak.;Vonat műszaki hibája miatti késés,66.0
+963,Műszaki meghibásodás miatt a vonat Zichyújfalu állomásig közlekedett. Utasaink vonatpótló autóbusszal utazhatnak tovább.;Vonat műszaki hibája miatti késés,90.0
+964,Műszaki meghibásodás miatt a vonat előreláthatólag 60 perc késéssel közlekedik tovább Zichyújfalu állomástól.  ;Vonat műszaki hibája miatti késés,62.4
+965,Műszaki meghibásodás miatt a vonatpótló autóbusz Tiszafüred és Debrecen között közlekedik.;Vonat műszaki hibája miatti késés,54.73913043478261
+966,Műszaki meghibásodás miatt előreláthatólag 120 perc késéssel érkezik az országba.;Társvasúttól átvett késés,150.06666666666666
+967,Műszaki meghibásodás miatt kb. 35 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,31.678571428571427
+968,Műszaki meghibásodás miatt kb. 40 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,41.63529411764706
+969,Műszaki meghibásodás miatt kb. 45-50 perc késéssel közlekedik.,23.0
+970,Műszaki meghibásodás miatt kb. 45-50 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,54.04
+971,Műszaki ok Kőbánya-Kispest állomásig közlekedik.,88.78787878787878
+972,Műszaki ok Kőbánya-Kispest állomásig közlekedik.;Vonat műszaki hibája miatti késés,83.0
+973,Műszaki ok miatt 50-55 perc késéssel indul Budapest-Keleti pályaudvarról.;Vonat műszaki hibája miatti késés,44.42857142857143
+974,Műszaki ok miatt Cegléd állomástól közlekedik.;Biztosítóberendezési hiba miatti késés,8.722222222222221
+975,Műszaki ok miatt Diósjenő állomásig közlekedik.,36.0
+976,Műszaki ok miatt Diósjenő állomásig közlekedik.;Vonat műszaki hibája miatti késés,36.0
+977,Műszaki ok miatt Hódmezővásárhely-Szentes között vonatpótló autóbusz közlekedik.,40.888888888888886
+978,Műszaki ok miatt Hódmezővásárhely-Szentes között vonatpótló autóbusz közlekedik.;Vonatpótló busz miatti késés,40.875
+979,Műszaki ok miatt InterCity minőségű kocsik nélkül közlekedik.;Pálya állapota miatti késés,7.2
+980,Műszaki ok miatt InterCity minőségű kocsik nélkül közlekedik.;Vonat műszaki hibája miatti késés,6.6
+981,Műszaki ok miatt Kecskemét és Cegléd között a mai napon nem közlekedik. Utasaink a 7009 sz. vonattal utazhatnak.;Biztosítóberendezési hiba miatti késés,7.653846153846154
+982,Műszaki ok miatt Kútvölgy állomásig közlekedik. Tovább utazó utasok a Kútvölgy állomásról menetrend szerint 10:51 órakor induló 7737 sz. személyvonattal utazhatnak.;Pálya állapota miatti késés,28.0
+983,Műszaki ok miatt Rákos állomásig közlekedik. Utasaink a 3314 sz. Z60-as vonattal utazhatnak tovább.;Vonat műszaki hibája miatti késés,55.0
+984,Műszaki ok miatt Rétszilason vonatpótló autóbuszra kell átszállni.,26.0
+985,Műszaki ok miatt Rétszilason vonatpótló autóbuszra kell átszállni.;Vonat műszaki hibája miatti késés,26.0
+986,"Műszaki ok miatt Szeged és Kútvölgy állomások között vonatpótló autóbusz közlekedik, de lehet, hogy az egész útvonalon vonatpótló autóbusz közlekedik. ",41.857142857142854
+987,"Műszaki ok miatt Szeged és Kútvölgy állomások között vonatpótló autóbusz közlekedik, de lehet, hogy az egész útvonalon vonatpótló autóbusz közlekedik. ;Vonatpótló busz miatti késés",41.3
+988,Műszaki ok miatt Szentes-Hódmezővásárhely között vonatpótló autóbusz közlekedik.,22.41176470588235
+989,Műszaki ok miatt Szentes-Hódmezővásárhely között vonatpótló autóbusz közlekedik.;Vonatpótló busz miatti késés,39.95348837209303
+990,"Műszaki ok miatt Szolnok és Debrecen között a vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.",6.0
+991,"Műszaki ok miatt Szolnok és Debrecen között a vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",6.368421052631579
+992,Műszaki ok miatt Tatabánya-Oroszlány állomások között nem közlekedik. Utasaink a következő vonattal utazhatnak.;Vonat műszaki hibája miatti késés,11.0
+993,Műszaki ok miatt Tiszaalpár felső megállóhelytől vonatpótló autóbusz közlekedik.,30.0
+994,Műszaki ok miatt Wien Hbf és Bp. Keleti között a 412 sz. 2. osztályú kocsi nélkül közlekedik.,16.5
+995,Műszaki ok miatt Wien Hbf és Bp. Keleti között a 412 sz. 2. osztályú kocsi nélkül közlekedik.;Csatlakozásra várás miatti késés,32.747747747747745
+996,Műszaki ok miatt a 20 sz. kerékpár és kerekesszéket szállító kocsi nélkül közlekedik.,29.5
+997,Műszaki ok miatt a 20 sz. kerékpár és kerekesszéket szállító kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,30.176470588235293
+998,Műszaki ok miatt a 20 sz. kerékpár és kerekesszéket szállító kocsi nélkül közlekedik.;Pálya állapota miatti késés,67.13879781420765
+999,Műszaki ok miatt a 24 sz. 1 o. kocsi nélkül közlekedik.,6.0
+1000,Műszaki ok miatt a 24 sz. 1 o. kocsi nélkül közlekedik.;Baleset miatti késés,9.64
+1001,Műszaki ok miatt a 24 sz. 1 o. kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,6.0
+1002,Műszaki ok miatt a 24 sz. 1 o. kocsi nélkül közlekedik.;Pálya állapota miatti késés,15.0
+1003,Műszaki ok miatt a 30 sz. kerékpár és kerekesszéket szállító kocsi nélkül közlekedik.,82.5
+1004,Műszaki ok miatt a 30 sz. kerékpár és kerekesszéket szállító kocsi nélkül közlekedik.;>Mezőzombor-Miskolc Tiszai között minden állomáson és megállóhelyen megáll.,8.0
+1005,Műszaki ok miatt a 30 sz. kerékpár és kerekesszéket szállító kocsi nélkül közlekedik.;>Mezőzombor-Miskolc Tiszai között minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,10.9
+1006,Műszaki ok miatt a 30 sz. kerékpár és kerekesszéket szállító kocsi nélkül közlekedik.;Pálya állapota miatti késés,53.794871794871796
+1007,Műszaki ok miatt a 30 sz. kerékpár és kerekesszéket szállító kocsi nélkül közlekedik.;Társvasúttól átvett késés,15.5
+1008,Műszaki ok miatt a 30 sz. kerékpár és kerekesszéket szállító kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,77.80948795180723
+1009,Műszaki ok miatt a 411 számú 1 o. osztályú kocsi nélkül közlekedik.,7.0
+1010,Műszaki ok miatt a 411 számú első osztályú kocsi nem közlekedik a vonattal.  ,7.25
+1011,Műszaki ok miatt a 411 számú első osztályú kocsi nem közlekedik.  ,7.25
+1012,Műszaki ok miatt a 719 sz. 1. osztályú kocsi nélkül közlekedik. A vonat utolsó kocsija lezárva közlekedik.,18.0
+1013,Műszaki ok miatt a mai napon nem közlekedik.,82.6
+1014,Műszaki ok miatt a mai napon nem közlekedik. Utasaink a 7020 sz. vonattal utazhatnak.,28.0
+1015,Műszaki ok miatt a mai napon nem közlekedik. Utasaink a 7732 sz. személyvonattal utazhatnak.,17.0
+1016,Műszaki ok miatt a vonat 1. osztályú kocsi nélkül közlekedik.,6.529411764705882
+1017,Műszaki ok miatt a vonat 21-es számú kocsi nélkül közlekedik.,7.0
+1018,Műszaki ok miatt a vonat 21-es számú kocsi nélkül közlekedik.;Pálya állapota miatti késés,37.780801872988
+1019,Műszaki ok miatt a vonat 22 és 23 sz. kocsik nélkül közlekedik.,88.0
+1020,Műszaki ok miatt a vonat 22 és 23 sz. kocsik nélkül közlekedik.;Pálya állapota miatti késés,13.318181818181818
+1021,Műszaki ok miatt a vonat 22 és 23 sz. kocsik nélkül közlekedik.;Tartózkodási idő túllépése,6.0
+1022,Műszaki ok miatt a vonat 22-es kocsija lezárva közlekedik.,9.0
+1023,Műszaki ok miatt a vonat 22-es kocsija lezárva közlekedik.;Csatlakozásra várás miatti késés,12.871428571428572
+1024,Műszaki ok miatt a vonat 22-es számú kocsi nélkül közlekedik.,7.25
+1025,Műszaki ok miatt a vonat 22-es számú kocsi nélkül közlekedik.;Pálya állapota miatti késés,6.571428571428571
+1026,Műszaki ok miatt a vonat 22-es számú kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,6.166666666666667
+1027,Műszaki ok miatt a vonat 23-as számú kocsi nélkül közlekedik.,9.0
+1028,Műszaki ok miatt a vonat 23-as számú kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,15.708333333333334
+1029,Műszaki ok miatt a vonat 23-as számú kocsi nélkül közlekedik.;Pálya állapota miatti késés,21.59259259259259
+1030,"Műszaki ok miatt a vonat 401-es számú, 1. osztályú kocsi nélkül közlekedik. ",27.0
+1031,"Műszaki ok miatt a vonat 401-es számú, 1. osztályú kocsi nélkül közlekedik. ;Társvasúttól átvett késés",28.565217391304348
+1032,"Műszaki ok miatt a vonat 401-es számú, 1. osztályú kocsi nélkül közlekedik. A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Csatlakozásra várás miatti késés",8.88
+1033,"Műszaki ok miatt a vonat 401-es számú, 1. osztályú kocsi nélkül közlekedik. A vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. ;Vonat műszaki hibája miatti késés",7.529411764705882
+1034,Műszaki ok miatt a vonat 411-es és 412-es számú kocsik nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,7.375
+1035,Műszaki ok miatt a vonat 411-es és 412-es számú kocsik nélkül közlekedik.;Társvasúttól átvett késés,9.25
+1036,Műszaki ok miatt a vonat 428-as számú kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,20.96511627906977
+1037,Műszaki ok miatt a vonat Abony állomásig közlekedik. ;Pálya állapota miatti késés,37.0
+1038,Műszaki ok miatt a vonat Füzesabony és Eger között nem közlekedik.;Vonat műszaki hibája miatti késés,54.35
+1039,Műszaki ok miatt a vonat Utasellátó Szolgáltatás nélkül közlekedik.;Más vonat által okozott késés,6.0
+1040,Műszaki ok miatt a vonat Utasellátó Szolgáltatás nélkül közlekedik.;Pálya állapota miatti késés,6.777777777777778
+1041,Műszaki ok miatt a vonat Utasellátó Szolgáltatás nélkül közlekedik.;Tartózkodási idő túllépése,12.0
+1042,Műszaki ok miatt a vonat Utasellátó Szolgáltatás nélkül közlekedik.;Vonat műszaki hibája miatti késés,7.0
+1043,Műszaki ok miatt a vonat csak Kőbánya-Kispest-állomásig közlekedik.,51.0
+1044,Műszaki ok miatt a vonat csak Kőbánya-Kispest-állomásig közlekedik.;Vonat műszaki hibája miatti késés,46.166666666666664
+1045,"Műszaki ok miatt a vonat csak Kőbánya-Kispest-állomástól közlekedik. Utasaink az IC 732 sz. vonattal utazhatnak Kőbánya-Kispest állomásra , mely kőbánya-Alsó megállóhelyen is megáll illetve 10 perc késéssel fog indulni . Kőbánya Kispest állomáson a csatlakozás biztosított.;Csatlakozásra várás miatti késés",6.521739130434782
+1046,Műszaki ok miatt a vonat csak Táborfalva állomásig közlekedik. ;Vonat műszaki hibája miatti késés,32.95652173913044
+1047,"Műszaki ok miatt a vonat első három kocsija lezárva közlekedik, utazásra nem vehető igénybe. A vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés",6.2105263157894735
+1048,"Műszaki ok miatt a vonat első három kocsija lezárva közlekedik, utazásra nem vehetők igénybe.;Pálya állapota miatti késés",6.98
+1049,"Műszaki ok miatt a vonat első kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.",12.5
+1050,"Műszaki ok miatt a vonat első kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vasútüzemen kívülálló ok miatti késés",6.0
+1051,"Műszaki ok miatt a vonat első kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",27.70993031358885
+1052,"Műszaki ok miatt a vonat első kettő kocsija lezárva közlekedik, utazásra nem vehetők igénybe.",7.0
+1053,"Műszaki ok miatt a vonat első kettő kocsija lezárva közlekedik, utazásra nem vehetők igénybe.;Biztosítóberendezési hiba miatti késés",17.232558139534884
+1054,"Műszaki ok miatt a vonat első kettő kocsija lezárva közlekedik, utazásra nem vehetők igénybe.;Tartózkodási idő túllépése",6.666666666666667
+1055,"Műszaki ok miatt a vonat első kettő kocsija lezárva közlekedik, utazásra nem vehetők igénybe.;Vonat műszaki hibája miatti késés",8.272727272727273
+1056,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.",52.666666666666664
+1057,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. A vonat 421-es számú kocsi nélkül közlekedik.",7.0
+1058,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe. A vonat 421-es számú kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés",8.78494623655914
+1059,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Baleset miatti késés",56.35606060606061
+1060,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Biztosítóberendezési hiba miatti késés",6.846153846153846
+1061,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Csatlakozásra várás miatti késés",13.0
+1062,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Más vonat által okozott késés",8.272727272727273
+1063,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",103.15926846533334
+1064,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Tartózkodási idő túllépése",7.142857142857143
+1065,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Társvasúttól átvett késés",25.02857142857143
+1066,"Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",82.3024453024453
+1067,"Műszaki ok miatt a vonat első négy kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",12.176470588235293
+1068,"Műszaki ok miatt a vonat első négy kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",11.181818181818182
+1069,Műszaki ok miatt a vonat előreláthatólag 20 perc késéssel közlekedik tovább Nyíregyháza állomástól.;Pálya állapota miatti késés,11.0
+1070,Műszaki ok miatt a vonat előreláthatólag 20 perc késéssel közlekedik tovább Nyíregyháza állomástól.;Vonat műszaki hibája miatti késés,16.571428571428573
+1071,Műszaki ok miatt a vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.,15.0
+1072,Műszaki ok miatt a vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés,6.5
+1073,Műszaki ok miatt a vonat kerekesszékes utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,7.916666666666667
+1074,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.,193.77412587412587
+1075,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>A vonat első kocsija lezárva közlekedik.,7.0
+1076,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>A vonat első kocsija lezárva közlekedik.;Vonat műszaki hibája miatti késés,6.0
+1077,"Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>A vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Társvasúttól átvett késés",7.546875
+1078,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>Baleset miatt Ajka állomásig közlekedik. Tovább utazó utasok az Ajka állomásról menetrend szerint 17:51 órakor induló 903 sz. Bakony IC vonattal utazhatnak.;Baleset miatti késés,107.62745098039215
+1079,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>Előreláthatólag 40 perc késéssel fog indulni.,28.666666666666668
+1080,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>Előreláthatólag 40 perc késéssel fog indulni.;Vonat műszaki hibája miatti késés,30.0
+1081,"Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.",6.0
+1082,"Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;>Műszaki ok miatt a vonat első kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Más vonat által okozott késés",6.857142857142857
+1083,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Baleset miatti késés,78.70808080808081
+1084,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,35.144570707070706
+1085,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Más vonat által okozott késés,15.0
+1086,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Pálya állapota miatti késés,9.25
+1087,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Tartózkodási idő túllépése,53.45848010134718
+1088,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés,166.25968498827424
+1089,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,112.67095956331251
+1090,Műszaki ok miatt a vonat kerekesszékkel történő utazásra és kerékpárszállításra alkalmas kocsi nélkül közlekedik.;Váltó meghibásodás miatti késés,111.9969545957918
+1091,Műszaki ok miatt a vonat kerékpárszállító kocsi nélkül közlekedik.;Pálya állapota miatti késés,15.041666666666668
+1092,Műszaki ok miatt a vonat kerékpárszállító kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,13.0
+1093,Műszaki ok miatt a vonat kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.,7.0
+1094,Műszaki ok miatt a vonat kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Tartózkodási idő túllépése,6.333333333333333
+1095,Műszaki ok miatt a vonat kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,8.923076923076923
+1096,Műszaki ok miatt a vonat nem közlekedik.;Vonat műszaki hibája miatti késés,28.5
+1097,"Műszaki ok miatt a vonat utolsó egysége lezárva közlekedik, utazásra nem vehető igénybe.",6.5
+1098,"Műszaki ok miatt a vonat utolsó egysége lezárva közlekedik, utazásra nem vehető igénybe.;Más vonat által okozott késés",7.0
+1099,"Műszaki ok miatt a vonat utolsó egysége lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",10.0
+1100,"Műszaki ok miatt a vonat utolsó egysége lezárva közlekedik, utazásra nem vehető igénybe.;Társvasúttól átvett késés",10.0
+1101,"Műszaki ok miatt a vonat utolsó hat kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",6.090909090909091
+1102,"Műszaki ok miatt a vonat utolsó hat kocsija lezárva közlekedik, utazásra nem vehetők igénybe.",6.0
+1103,"Műszaki ok miatt a vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehető igénybe.",6.571428571428571
+1104,"Műszaki ok miatt a vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",17.656582633053223
+1105,"Műszaki ok miatt a vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Tartózkodási idő túllépése",7.0
+1106,"Műszaki ok miatt a vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Társvasúttól átvett késés",9.333333333333334
+1107,"Műszaki ok miatt a vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",8.382352941176471
+1108,"Műszaki ok miatt a vonat utolsó három kocsija lezárva közlekedik, utazásra nem vehetők igénybe.;Pálya állapota miatti késés",14.5
+1109,"Műszaki ok miatt a vonat utolsó hét kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",6.0
+1110,"Műszaki ok miatt a vonat utolsó hét kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Tartózkodási idő túllépése",7.25
+1111,"Műszaki ok miatt a vonat utolsó kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.",12.0
+1112,"Műszaki ok miatt a vonat utolsó kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Biztosítóberendezési hiba miatti késés",43.53846153846154
+1113,"Műszaki ok miatt a vonat utolsó kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",33.690026954177895
+1114,"Műszaki ok miatt a vonat utolsó kettő kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",6.1
+1115,Műszaki ok miatt a vonat utolsó kettő kocsija lezárva közlekedik. utazásra nem vehetők igénybe.;Pálya állapota miatti késés,6.75
+1116,"Műszaki ok miatt a vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.",28.55
+1117,"Műszaki ok miatt a vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Biztosítóberendezési hiba miatti késés",7.7
+1118,"Műszaki ok miatt a vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Más vonat által okozott késés",6.0
+1119,"Műszaki ok miatt a vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",30.20959595959596
+1120,"Műszaki ok miatt a vonat utolsó kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",9.25
+1121,"Műszaki ok miatt a vonat utolsó kocsija, illetve a 21-es számú kocsi lezárva közlekedik, utazásra nem vehetők igénybe.;Pálya állapota miatti késés",13.07843137254902
+1122,"Műszaki ok miatt a vonat végén hét lezárt kocsi közlekedik, utazásra nem vehetők igénybe.",8.5
+1123,"Műszaki ok miatt a vonat végén hét lezárt kocsi közlekedik, utazásra nem vehetők igénybe.;Vonat műszaki hibája miatti késés",11.411764705882353
+1124,"Műszaki ok miatt a vonat végén kettő lezárt kocsi közlekedik, amelyek utazásra nem vehetők igénybe.;Csatlakozásra várás miatti késés",6.0
+1125,"Műszaki ok miatt a vonat végén kettő lezárt kocsi közlekedik, amelyek utazásra nem vehetők igénybe.;Pálya állapota miatti késés",11.566666666666666
+1126,Műszaki ok miatt a vont csak Piliscsaba állomásig közlekedik. Utasaink a 2086 számú vonattal utazhatnak.;Vonat műszaki hibája miatti késés,32.9
+1127,Műszaki ok miatt az 22 és a 23 sz. kocsi nem IC minőségű.,7.0
+1128,Műszaki ok miatt az 22 és a 23 sz. kocsi nem IC minőségű.;Pálya állapota miatti késés,6.25
+1129,"Műszaki ok miatt csak Celldömölk állomásig közlekedik, utasaink a 9048 számú vonattal utazhatnak tovább.;Vonat műszaki hibája miatti késés",38.81818181818182
+1130,"Műszaki ok miatt csak Vaszar állomásig közlekedik, Utasaink a 9222 számú vonattal utazhatnak Celldömölk állomásig.;Vonat műszaki hibája miatti késés",31.964285714285715
+1131,Műszaki ok miatt előreláthatóan kb. 10-15 perc késéssel indul Bp. Keleti állomásról.,12.0
+1132,Műszaki ok miatt előreláthatóan kb. 10-15 perc késéssel indul Bp. Keleti állomásról.;Pálya állapota miatti késés,14.222222222222221
+1133,Műszaki ok miatt előreláthatóan kb. 10-15 perc késéssel indul Cegléd állomásról. ,20.0
+1134,Műszaki ok miatt előreláthatóan kb. 10-15 perc késéssel indul Cegléd állomásról. ;Vonat műszaki hibája miatti késés,17.428571428571427
+1135,Műszaki ok miatt előreláthatóan kb. 15 perc késéssel indul Bp. Keleti pályaudvaról. ;Vonat műszaki hibája miatti késés,18.0
+1136,Műszaki ok miatt előreláthatóan kb. 25-30 perc késéssel indul Cegléd állomásról. ,23.0
+1137,Műszaki ok miatt előreláthatóan kb. 25-30 perc késéssel indul Cegléd állomásról. ;Vonat műszaki hibája miatti késés,19.470588235294116
+1138,Műszaki ok miatt előreláthatóan kb. 30 perc késéssel indul Nagykáta állomásról. ,43.0
+1139,Műszaki ok miatt előreláthatóan kb. 30 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,28.523809523809526
+1140,Műszaki ok miatt előreláthatóan kb. 40 perc késéssel indul Szerencs állomásról. ;Pálya állapota miatti késés,26.0
+1141,Műszaki ok miatt előreláthatóan kb. 40 perc késéssel indul Szerencs állomásról. ;Vonat műszaki hibája miatti késés,65.3529411764706
+1142,Műszaki ok miatt előreláthatóan kb. 5-10 perc késéssel indul Bp. Nyugati pályaudvarról.,13.0
+1143,Műszaki ok miatt előreláthatóan kb. 5-10 perc késéssel indul Bp. Nyugati pályaudvarról.;Pálya állapota miatti késés,20.44144144144144
+1144,Műszaki ok miatt előreláthatóan kb. 60 perc késéssel közlekedik. ;Vonat műszaki hibája miatti késés,101.1
+1145,Műszaki ok miatt előreláthatólag 15 perc késéssel indul Békéscsaba állomásról.,6.5
+1146,Műszaki ok miatt előreláthatólag 15 perc késéssel indul Békéscsaba állomásról.;Vasútüzemen kívülálló ok miatti késés,8.0
+1147,Műszaki ok miatt előreláthatólag 20 perc késéssel közlekedik.,22.0
+1148,Műszaki ok miatt előreláthatólag 20 perc késéssel közlekedik.;Rongálás miatti késés,25.735632183908045
+1149,Műszaki ok miatt előreláthatólag 50 perc késéssel közlekedik.,51.666666666666664
+1150,Műszaki ok miatt előreláthatólag 50 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,55.41818181818182
+1151,Műszaki ok miatt kb. 10-15 perc késéssel indul Budapest-Keleti pályaudvarról.,12.0
+1152,Műszaki ok miatt kb. 10-15 perc késéssel indul Budapest-Keleti pályaudvarról.;Vonat műszaki hibája miatti késés,12.0
+1153,Műszaki ok miatt kb. 20 perc késéssel indul Budapest-Nyugati pályaudvarról.,20.0
+1154,Műszaki ok miatt kb. 20 perc késéssel indul Budapest-Nyugati pályaudvarról.;Vonat műszaki hibája miatti késés,20.0
+1155,Műszaki ok miatt kb. 20 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,28.107142857142858
+1156,Műszaki ok miatt kb. 70 perc késéssel közlekedik.;Biztosítóberendezési hiba miatti késés,30.0
+1157,Műszaki ok miatt kb. 70 perc késéssel közlekedik.;Vonat műszaki hibája miatti késés,69.49019607843137
+1158,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik.,15.25
+1159,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik. ,14.0
+1160,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik. ;Pálya állapota miatti késés,7.722222222222222
+1161,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik. ;Tartózkodási idő túllépése,19.75824175824176
+1162,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik. ;Társvasúttól átvett késés,26.657894736842106
+1163,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik. ;Vonat műszaki hibája miatti késés,10.666666666666666
+1164,"Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik.;>Az első kocsi lezárva közlekedik, utazásra nem vehető igénybe.",7.0
+1165,"Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik.;>Az első kocsi lezárva közlekedik, utazásra nem vehető igénybe.;Társvasúttól átvett késés",6.0
+1166,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik.;Csatlakozásra várás miatti késés,21.5
+1167,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik.;Más vonat által okozott késés,10.833333333333334
+1168,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik.;Pálya állapota miatti késés,19.083333333333332
+1169,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés,12.0
+1170,Műszaki ok miatt kerékpár valamint kerekesszék szállításra alkalmas kocsi nélkül közlekedik.;Vonat műszaki hibája miatti késés,29.218487394957982
+1171,"Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül 
+közlekedik.",32.44444444444444
+1172,"Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül 
+közlekedik.;Tartózkodási idő túllépése",7.4375
+1173,"Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül 
+közlekedik.;Társvasúttól átvett késés",46.96341463414634
+1174,"Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül 
+közlekedik.;Vonat műszaki hibája miatti késés",54.81754082175135
+1175,Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.,27.8
+1176,"Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;>A vonat első három kocsija lezárva közlekedik, utazásra nem vehető igénybe.",8.0
+1177,"Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;>A vonat első három kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Pálya állapota miatti késés",6.0
+1178,"Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;>A vonat első három kocsija lezárva közlekedik, utazásra nem vehető igénybe.;Vonat műszaki hibája miatti késés",6.0
+1179,"Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;>Műszaki ok miatt a vonat végén négy kocsi lezárva közlekedik, utazásra nem vehetők igénybe.;Társvasúttól átvett késés",6.133333333333334
+1180,"Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;>Műszaki ok miatt a vonat végén négy kocsi lezárva közlekedik, utazásra nem vehetők igénybe.;Vonat műszaki hibája miatti késés",7.0
+1181,Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Tartózkodási idő túllépése,8.066666666666666
+1182,Műszaki ok miatt kerékpárszállító és kerekesszékes utas utazására alkalmas kocsi nélkül közlekedik.;Társvasúttól átvett késés,34.72893772893773
+1183,Műszaki ok miatt nem InterCity minőségű kocsikkal közlekedik.,8.0
+1184,Műszaki ok miatt nem InterCity minőségű kocsikkal közlekedik.;Baleset miatti késés,33.26
+1185,Műszaki ok miatt nem közlekedik.,52.333333333333336
+1186,Műszaki ok miatt étkező kocsi nélkül közlekedik. ;Vonat műszaki hibája miatti késés,10.533333333333333
+1187,Műszaki ok miatti késés vonatnál,74.44886363636364
+1188,Műszaki ok miatti késés. ,134.5
+1189,Műszaki ok miatti késés. ;Baleset miatti késés,97.1875
+1190,Műszaki ok miatti késés.;Vonat műszaki hibája miatti késés,6.0
+1191,Nem továbbít 20-as számú kocsit.;Felsővezetéki hiba miatti késés,7.5
+1192,"Nem továbbít 20-as számú, kerékpárszállításra és kerekesszékes utazásra alkalmas kocsit.;>A mai napon megáll Kőbánya-alsó megállóhelyen is.;Csatlakozásra várás miatti késés",6.545454545454546
+1193,"Nem továbbít 20-as számú, kerékpárszállításra és kerekesszékes utazásra alkalmas kocsit.;>A mai napon megáll Kőbánya-alsó megállóhelyen is.;Pálya állapota miatti késés",13.962962962962964
+1194,Nyíregyháza állomásig InterCity minőségű kocsik nélkül közlekedik. Nyíregyházán másik szerelvényre kell átszállni.;Pálya állapota miatti késés,9.0
+1195,Nyíregyháza állomásig InterCity minőségű kocsik nélkül közlekedik. Nyíregyházán másik szerelvényre kell átszállni.;Tartózkodási idő túllépése,6.8
+1196,Nyíregyháza és Miskolc Tiszai között műszaki ok miatt nem közlekedik. Mezőzombor-Miskolc Tiszai között az 503 sz. Zemplén IC vonat minden állomáson és megállóhelyen megáll az kimaradt vonat utasainak elszállítása céljából.,6.0
+1197,Nyíregyháza és Miskolc Tiszai között műszaki ok miatt nem közlekedik. Mezőzombor-Miskolc Tiszai között az 503 sz. Zemplén IC vonat minden állomáson és megállóhelyen megáll az kimaradt vonat utasainak elszállítása céljából.;Pálya állapota miatti késés,8.0
+1198,Nyíregyháza és Miskolc Tiszai között műszaki ok miatt nem közlekedik. Mezőzombor-Miskolc Tiszai között az 503 sz. Zemplén IC vonat minden állomáson és megállóhelyen megáll az kimaradt vonat utasainak elszállítása céljából.;Vonat műszaki hibája miatti késés,7.375
+1199,Nyíregyházától a vonat utolsó kettő kocsija lezárva közlekedik.;Pálya állapota miatti késés,29.0234375
+1200,Nyíregyházától a vonat utolsó kettő kocsija lezárva közlekedik.;Vonat műszaki hibája miatti késés,28.209302325581394
+1201,Pincehely állomáson másik szerelvénybe kell átszállni.,15.555555555555555
+1202,Pincehely állomáson másik szerelvénybe kell átszállni.;Biztosítóberendezési hiba miatti késés,27.125
+1203,Pincehely állomáson másik szerelvénybe kell átszállni.;Más vonat által okozott késés,76.76744186046511
+1204,Pusztaszabolcs - Szabadegyháza között vonatpótló autóbusz közlekedik.;Csatlakozásra várás miatti késés,15.69767441860465
+1205,Pusztaszabolcs állomástól előreláthatólag 15 perc késéssel közlekedik tovább.,25.055555555555557
+1206,Pusztaszabolcs állomástól előreláthatólag 15 perc késéssel közlekedik tovább.;Vonat műszaki hibája miatti késés,41.285714285714285
+1207,Pálya állapota miatti késés,91297.22986867875
+1208,Pályaépítés miatti késés,1655.7564377801973
+1209,Rongálás miatti késés,1341.3246890984453
+1210,Rákosliget és Gödöllő között minden állomáson és megállóhelyen megáll.;Felsővezetéki hiba miatti késés,20.586206896551722
+1211,"Som-Nagyberény közelében történt baleset miatt nem közlekedik tovább. A vonat helyett a baleset helyszínétől pótlóbusz közlekedik tovább, amely előreláthatólag 11:10-kor indul.;Baleset miatti késés",33.27272727272727
+1212,Szabadegyháza - Pusztaszabolcs között vonatpótló autóbusz közlekedik.;Biztosítóberendezési hiba miatti késés,31.428571428571427
+1213,"Szeged, Rókus vasútállomástól közlekedik. Az utasokat pótló buszok szállítják Szeged vasútállomástól.",7.333333333333333
+1214,"Szeged, Rókus vasútállomástól közlekedik. Az utasokat pótló buszok szállítják Szeged vasútállomástól.;Társvasúttól átvett késés",9.6
+1215,Szeged-Rókusig közlekedik. Utasaink vonatpótló autóbusszal utazhatnak Szeged-Rókus ? Szeged állomások között.;Pálya állapota miatti késés,7.5
+1216,Szentlőrinc-Pécs között a mai napon nem közlekedik.,8.5
+1217,Szentlőrinc-Pécs között a mai napon nem közlekedik.;Pálya állapota miatti késés,10.208333333333334
+1218,Szerelvény késés csökkentése érdekében Mende állomásig közlekedik.;Vonat műszaki hibája miatti késés,30.285714285714285
+1219,Szerelvény késés csökkentése érdekében Mende állomástól közlekedik.;Vonat műszaki hibája miatti késés,7.5
+1220,Szerencs és Miskolc Tiszai között minden állomáson és megállóhelyen megáll.,15.0
+1221,Szerencs és Miskolc Tiszai között minden állomáson és megállóhelyen megáll.;Pálya állapota miatti késés,14.181818181818182
+1222,Síntörés miatt a vonat előreláthatólag 60 perc késéssel közlekedik.,66.5
+1223,Síntörés miatt a vonat előreláthatólag 60 perc késéssel közlekedik.;Biztosítóberendezési hiba miatti késés,65.44444444444444
+1224,Tartózkodási idő túllépése,11264.270019246193
+1225,Társvasúttól átvett késés,28416.164024826365
+1226,Társvasúttól átvett késés miatt előreláthatólag 50 perc késéssel érkezik Biharkeresztes állomásra.;Társvasúttól átvett késés,74.0
+1227,Társvasúttól átvett késés.,50.0
+1228,Társvasúttól átvett késés.;Vonat műszaki hibája miatti késés,65.40350877192982
+1229,"Utasaink Szeged állomásról vonatpótló autóbusszal utazhatnak Szeged-Rókusig, Szeged-Rókustól vonattal utazhatnak tovább.",14.666666666666666
+1230,"Utasaink Szeged állomásról vonatpótló autóbusszal utazhatnak Szeged-Rókusig, Szeged-Rókustól vonattal utazhatnak tovább.;Csatlakozásra várás miatti késés",10.166666666666666
+1231,"Utasaink a 313 sz. MURA InterCity vonattal utazhatnak, mely Győr és Budapest-Kelenföld között minden állomáson és megállóhelyen megáll.",28.8
+1232,"Utasaink a 313 sz. MURA InterCity vonattal utazhatnak, mely Győr és Budapest-Kelenföld között minden állomáson és megállóhelyen megáll.;Más vonat által okozott késés",31.05128205128205
+1233,"Utasaink a 313 sz. MURA InterCity vonattal utazhatnak, mely Győr és Budapest-Kelenföld között minden állomáson és megállóhelyen megáll.;Társvasúttól átvett késés",32.0
+1234,Utasellátó szolgáltatás nélkül közlekedik.,85.0
+1235,Utasellátó szolgáltatás nélkül közlekedik.;Biztosítóberendezési hiba miatti késés,44.644067796610166
+1236,Utasellátó szolgáltatás nélkül közlekedik.;Pálya állapota miatti késés,30.867521367521366
+1237,Utasellátó szolgáltatás nélkül közlekedik.;Vonat műszaki hibája miatti késés,33.07608695652174
+1238,Utasellátói szolgáltatás nélkül közlekedik.;Tartózkodási idő túllépése,12.125
+1239,Utasforgalmi ok miatti késés,32.25
+1240,Vasúti sztrájk miatt a vonat Győr-Hegyeshalom állomások között közlekedik.,6.0
+1241,Vasúti sztrájk miatt a vonat Győr-Hegyeshalom állomások között közlekedik.;Vonat műszaki hibája miatti késés,6.25
+1242,Vasúti sztrájk miatt a vonat Hegyeshalom-Győr állomások között közlekedik.,7.0
+1243,Vasúti sztrájk miatt a vonat Hegyeshalom-Győr állomások között közlekedik.;Tartózkodási idő túllépése,6.125
+1244,Vasútüzemen kívülálló ok miatti késés,2582.6548615369697
+1245,Veszprém-Zirc állomások között vonatpótló autóbusz közlekedik.;Vonat műszaki hibája miatti késés,15.216216216216216
+1246,Vonat műszaki hibája miatti késés,58265.36431915277
+1247,"Vonat végén az utolsó egység Flirt lezárva közlekedik, utazásra nem vehető igénybe. ",8.0
+1248,"Vonat végén az utolsó egység Flirt lezárva közlekedik, utazásra nem vehető igénybe. ;Más vonat által okozott késés",10.0
+1249,Vonatpótló busz miatti késés,138.07375816993465
+1250,Vác állomásig S70-es (2474 számú) vonatként közlekedik.,23.0
+1251,Vác állomásig S70-es (2474 számú) vonatként közlekedik.;Vonat műszaki hibája miatti késés,17.333333333333332
+1252,Vác állomáson másik szerelvénybe kell átszállni.,28.0
+1253,Vác állomáson másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés,27.4375
+1254,Vácról előreláthatólag 60-70 perc késéssel fog indulni.,59.6
+1255,Vácról előreláthatólag 60-70 perc késéssel fog indulni.;Időjárási ok miatti késés,66.66666666666667
+1256,Váltó meghibásodás miatt a  vonat Leányvár állomásról indul.,11.666666666666666
+1257,Váltó meghibásodás miatt a  vonat Leányvár állomásról indul.;Váltó meghibásodás miatti késés,32.52
+1258,Váltó meghibásodás miatti késés,1598.3662276550783
+1259,Váltómeghibásodása miatti késés.,59.8235294117647
+1260,Váltómeghibásodása miatti késés.;Baleset miatti késés,71.14814814814815
+1261,Váltómeghibásodása miatti késés.;Váltó meghibásodás miatti késés,69.23076923076923
+1262,Vámosgyörk és Füzesabony között minden állomáson és megállóhelyen megáll.,7.5
+1263,Vámosgyörk és Füzesabony között minden állomáson és megállóhelyen megáll.;Csatlakozásra várás miatti késés,13.766666666666667
+1264,Vámosgyörk és Füzesabony között minden állomáson és megállóhelyen megáll.;Pálya állapota miatti késés,11.416666666666666
+1265,Vár a 8035 sz. vonat vonatpótló autóbuszára.,51.0
+1266,Vár a 8035 sz. vonat vonatpótló autóbuszára.;Vonatpótló busz miatti késés,46.90909090909091
+1267,Zalaszentiván állomáson másik szerelvénybe kell átszállni.,52.5
+1268,Zalaszentiván állomáson másik szerelvénybe kell átszállni.;>Előreláthatólag 40 perc késéssel fog indulni.,10.0
+1269,Zalaszentiván állomáson másik szerelvénybe kell átszállni.;Baleset miatti késés,31.333333333333332
+1270,Zalaszentiván állomáson másik szerelvénybe kell átszállni.;Csatlakozásra várás miatti késés,55.76623376623377
+1271,Zalaszentiván állomáson másik szerelvénybe kell átszállni.;Pálya állapota miatti késés,43.90909090909091
+1272,Zalaszentiván állomáson másik szerelvénybe kell átszállni.;Társvasúttól átvett késés,9.0
+1273,Zalaszentiván állomáson másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés,106.99236641221374
+1274,Zalaszentiván és Szombathely között a vonat helyett pótlóbusz közlekedik.,18.0
+1275,Zalaszentiván és Szombathely között a vonat helyett pótlóbusz közlekedik.;Vonat műszaki hibája miatti késés,16.944444444444443
+1276,"Zalaszentiván-Egervár-Vasboldogasszony állomások között vonatpótló autóbusz közlekedik, Egervár-Vasboldogasszonyon át kell szállni a Szombathelyen át Sopronig közlekedő vonatra. ",47.93478260869565
+1277,Zirc és Veszprém állomások között vonatpótló autóbusz közlekedik.;Vonat műszaki hibája miatti késés,133.75
+1278,Áramszedő törés miatt a vonat lemondásra került.,101.24050632911393
+1279,Áramszedő törés miatt a vonat lemondásra került.;Felsővezetéki hiba miatti késés,212.8181818181818
+1280,Áramszedő törés miatt késik a vonat.,13.0
+1281,Érd állomástól kb. 10 perc késéssel közlekedik tovább.,15.0
+1282,Érd állomástól kb. 10 perc késéssel közlekedik tovább.;Vasútüzemen kívülálló ok miatti késés,18.083333333333332
+1283,Örkény állomáson másik szerelvénybe kell átszállni.;Csatlakozásra várás miatti késés,7.529411764705882
+1284,Örkény állomáson másik szerelvénybe kell átszállni.;Vonat műszaki hibája miatti késés,6.0
