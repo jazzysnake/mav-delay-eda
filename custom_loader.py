@@ -62,7 +62,7 @@ class Connector(object):
     """ It sets and manages a connection to a Cassandra Cluster. """
 
     def __init__(self, cassandra_clusters, cassandra_keyspace, username,
-                 password, port=9042):
+                 password, port=9042, timeout = 10):
         """
         Initialization of CassandraConnector. It connects to a Cassandra cluster defined by a list of IPs.
         If the connection is successful, it then establishes a session with a Cassandra keyspace.
@@ -91,8 +91,12 @@ class Connector(object):
             self.auth = PlainTextAuthProvider(username=username,
                                               password=password)
             self.cluster = Cluster(self.clusters,
-                                   auth_provider=self.auth, port=port, connect_timeout = 10)
+                                   auth_provider=self.auth,
+                                   port=port,
+                                   connect_timeout = timeout,
+                                   )
         self.session = self.cluster.connect(self.keyspace)
+        self.session.default_timeout = timeout
 
         # Configure session to return a Pandas dataframe
         self.session.client_protocol_handler = NumpyProtocolHandler
@@ -426,7 +430,7 @@ class Table():
         return
 
     @staticmethod
-    def __read_data(sql_query, clusters, keyspace, username, password, port=9042):
+    def __read_data(sql_query, clusters, keyspace, username, password, port=9042, timeout = 60):
         """
         It sets a connection with a Cassandra Cluster and loads a partition from a Cassandra table using a SQL
         statement.
@@ -467,7 +471,7 @@ class Table():
         session.row_factory = pandas_factory
         # Query Cassandra
         try:
-            future = session.execute_async(sql_query)
+            future = session.execute_async(sql_query, timeout=timeout)
             handler = PagedResultHandler(future)
             handler.finished_event.wait()
         except Exception as e:
@@ -597,7 +601,7 @@ class Loader(object):
         return
 
     def connect_to_cassandra(self, cassandra_clusters, cassandra_keyspace,
-                             username, password, port=9042):
+                             username, password, port=9042, timeout=10):
         """
         Connects to a Cassandra cluster specified by a list of IPs.
 
@@ -614,7 +618,9 @@ class Loader(object):
             self.cassandra_con = Connector(cassandra_clusters,
                                            cassandra_keyspace,
                                            username, password,
-                                           port = port,)
+                                           port = port,
+                                           timeout = timeout
+                                          )
         except Exception as e:
             raise DaskCassandraLoaderException(
                 "connect_to_cassandra failed: It was not possible to set a connection with the Cassandra cluster: "
