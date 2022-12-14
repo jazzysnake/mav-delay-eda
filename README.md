@@ -4,12 +4,21 @@
 repository aims to find the causes and show the trends in the delays.
 Made for the Big Data course of Budapest University of Technology and Economics*
 
+## Goal of the analysis
+
+With our analysis we aim to provide a unique look into:
+
+- General delay statistics
+- Trends in delays
+- Causes of delays
+- Problematic areas
+
 ## Data origin
 
 Two data sources were used in the analysis:
 
-    - Delay cause data
-    - Train location and delay data
+- Delay cause data
+- Train location and delay data
 
 The first source was obtained by scraping the public MAV webpage starting from 2022.10.05.
 The second source was given to us by u/gaborauth on reddit, who made a great
